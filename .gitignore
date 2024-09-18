@@ -1,0 +1,50 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+env/
+venv/
+ENV/
+venv.bak/
+*.egg-info/
+*.eggs/
+dist/
+build/
+*.log
+vault_maps/
+courses/
+
+# Docker
+*.log
+docker-compose.override.yml
+Dockerfile
+docker-compose.yml
+*.env
+
+# MongoDB
+mongo_data/
+
+# Flask
+instance/
+*.db
+*.sqlite
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.tmp
+*.bak
+*.swp
+*.swo
+*.pid
+*.sublime-workspace
+*.sublime-project

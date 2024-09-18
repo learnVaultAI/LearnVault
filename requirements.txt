@@ -1,0 +1,7 @@
+Flask
+requests
+beautifulsoup4
+google-generativeai
+pymongo
+python-dotenv
+scikit-learn
