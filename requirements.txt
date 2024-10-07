@@ -5,3 +5,7 @@ google-generativeai
 pymongo
 python-dotenv
 scikit-learn
+tenacity
+pandas
+openpyxl
+aiohttp

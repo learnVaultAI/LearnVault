@@ -86,8 +86,11 @@ MONGODB_URI=<your-mongodb-uri>
 - **Body**:
 ```json
 {
-  "course_name": "Machine Learning"
+    "core_category" : "Development",
+    "category" : "Web Development",
+    "course_name": "Full Stack Web Development"
 }
+
 ```
 - **Response**:
 ```json
@@ -98,13 +101,17 @@ MONGODB_URI=<your-mongodb-uri>
 
 ### Integrate Roadmap with YouTube
 
+- http://127.0.0.1:5000/api/integration_roadmap
 - **URL**: `/api/integrate`
 - **Method**: `POST`
 - **Body**:
 ```json
 {
-  "course_name": "Machine Learning"
+    "core_category" : "Development",
+    "category" : "Web Development",
+    "course_name": "Full Stack Web Development"
 }
+
 ```
 - **Response**:
 ```json

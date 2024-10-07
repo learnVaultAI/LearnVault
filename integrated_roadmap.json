@@ -1,0 +1,3093 @@
+{
+  "tags": [
+    "Python",
+    "Data Science",
+    "Machine Learning",
+    "Data Analysis",
+    "Data Visualization"
+  ],
+  "course_name": "Python for Data Science",
+  "description": "This course provides a comprehensive introduction to Python for Data Science, covering fundamental concepts, advanced topics, and practical applications specific to Python for Data Science.",
+  "topics": [
+    {
+      "topic_title": "Data Exploration and Visualization",
+      "sections": [
+        {
+          "topic": "EDA",
+          "subtopics": [
+            "Exploratory Data Analysis",
+            "Data Summarization",
+            "Data Transformation"
+          ]
+        },
+        {
+          "topic": "Data Visualization Tools",
+          "subtopics": [
+            "Matplotlib",
+            "Seaborn",
+            "Plotly"
+          ]
+        },
+        {
+          "topic": "Data Cleaning",
+          "subtopics": [
+            "Data Cleaning Techniques",
+            "Data Imputation",
+            "Data Validation"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_title": "Statistical Analysis",
+      "sections": [
+        {
+          "topic": "Probability",
+          "subtopics": [
+            "Probability Distributions",
+            "Conditional Probability",
+            "Bayes' Theorem"
+          ]
+        },
+        {
+          "topic": "Hypothesis Testing",
+          "subtopics": [
+            "Null and Alternative Hypotheses",
+            "Type I and Type II Errors",
+            "Hypothesis Testing Procedures"
+          ]
+        },
+        {
+          "topic": "Regression Analysis",
+          "subtopics": [
+            "Linear Regression",
+            "Logistic Regression",
+            "Time Series Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_title": "Machine Learning",
+      "sections": [
+        {
+          "topic": "Supervised Learning",
+          "subtopics": [
+            "Classification Algorithms",
+            "Regression Algorithms",
+            "Ensemble Methods"
+          ]
+        },
+        {
+          "topic": "Unsupervised Learning",
+          "subtopics": [
+            "Clustering Algorithms",
+            "Dimensionality Reduction",
+            "Anomaly Detection"
+          ]
+        },
+        {
+          "topic": "Model Evaluation",
+          "subtopics": [
+            "Model Selection Techniques",
+            "Overfitting and Underfitting",
+            "Cross-Validation"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_title": "Deep Learning",
+      "sections": [
+        {
+          "topic": "Neural Networks",
+          "subtopics": [
+            "Artificial Neural Networks",
+            "Convolutional Neural Networks",
+            "Recurrent Neural Networks"
+          ]
+        },
+        {
+          "topic": "CNNs",
+          "subtopics": [
+            "Convolutional Layers",
+            "Pooling Layers",
+            "Transfer Learning"
+          ]
+        },
+        {
+          "topic": "RNNs",
+          "subtopics": [
+            "Recurrent Layers",
+            "Long Short-Term Memory",
+            "Gated Recurrent Units"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_title": "Big Data Technologies",
+      "sections": [
+        {
+          "topic": "Hadoop",
+          "subtopics": [
+            "Hadoop Ecosystem",
+            "MapReduce",
+            "HDFS"
+          ]
+        },
+        {
+          "topic": "Spark",
+          "subtopics": [
+            "Spark Architecture",
+            "Spark SQL",
+            "Spark Streaming"
+          ]
+        },
+        {
+          "topic": "NoSQL Databases",
+          "subtopics": [
+            "MongoDB",
+            "Cassandra",
+            "Redis"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_title": "Natural Language Processing",
+      "sections": [
+        {
+          "topic": "Text Preprocessing",
+          "subtopics": [
+            "Tokenization",
+            "Stemming",
+            "Lemmatization"
+          ]
+        },
+        {
+          "topic": "Sentiment Analysis",
+          "subtopics": [
+            "Sentiment Analysis Techniques",
+            "Sentiment Analysis Applications"
+          ]
+        },
+        {
+          "topic": "Named Entity Recognition",
+          "subtopics": [
+            "Named Entity Types",
+            "Named Entity Recognition Techniques"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_title": "Computer Vision",
+      "sections": [
+        {
+          "topic": "Image Classification",
+          "subtopics": [
+            "Image Classification Techniques",
+            "Image Classification Applications"
+          ]
+        },
+        {
+          "topic": "Object Detection",
+          "subtopics": [
+            "Object Detection Techniques",
+            "Object Detection Applications"
+          ]
+        },
+        {
+          "topic": "Image Segmentation",
+          "subtopics": [
+            "Image Segmentation Techniques",
+            "Image Segmentation Applications"
+          ]
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Exploratory Data Analysis (EDA) Using Python | Python Data Analysis | Python Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=-o3AxdVcUtQ",
+      "topic": "EDA",
+      "subtopic": "Exploratory Data Analysis",
+      "duration": "29:59",
+      "views": "375,021 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Exploratory Data Analysis with Pandas Python",
+      "url": "https://www.youtube.com/watch?v=xi0vhXFPegw",
+      "topic": "EDA",
+      "subtopic": "Exploratory Data Analysis",
+      "duration": "40:22",
+      "views": "471,279 views",
+      "channel": "Rob Mulla",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 11-Exploratory Data Analysis(EDA) of Titanic dataset",
+      "url": "https://www.youtube.com/watch?v=Ea_KAcdv1vs",
+      "topic": "EDA",
+      "subtopic": "Exploratory Data Analysis",
+      "duration": "31:45",
+      "views": "319,932 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Step By Step Process In EDA And Feature Engineering In Data Science Projects",
+      "url": "https://www.youtube.com/watch?v=xhB-dmKmzRk",
+      "topic": "EDA",
+      "subtopic": "Exploratory Data Analysis",
+      "duration": "14:19",
+      "views": "138,480 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Complete Exploratory Data Analysis And Feature Engineering In 3 Hours| Krish Naik",
+      "url": "https://www.youtube.com/watch?v=fHFOANOHwh8",
+      "topic": "EDA",
+      "subtopic": "Exploratory Data Analysis",
+      "duration": "2:48:55",
+      "views": "188,398 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Exploratory Data Analysis (EDA) Using Python | Python Data Analysis | Python Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=-o3AxdVcUtQ",
+      "topic": "EDA",
+      "subtopic": "Data Summarization",
+      "duration": "29:59",
+      "views": "375,021 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Exploratory Data Analysis EDA Using Python | Python Training | Edureka | DL Rewind - 4",
+      "url": "https://www.youtube.com/watch?v=ZVepfAaYh-U",
+      "topic": "EDA",
+      "subtopic": "Data Summarization",
+      "duration": "38:23",
+      "views": "4,342 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Ekhtiar Syed: Exploratory Data Analysis (EDA) and Visualization Techniques.. | PyData Eindhoven 2019",
+      "url": "https://www.youtube.com/watch?v=YFvtZfHaPR8",
+      "topic": "EDA",
+      "subtopic": "Data Summarization",
+      "duration": "23:43",
+      "views": "2,889 views",
+      "channel": "PyData",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Generate Data Science/Data Analysis Report of your DataSet in 5 Minutes",
+      "url": "https://www.youtube.com/watch?v=sGQfiyXOvF0",
+      "topic": "EDA",
+      "subtopic": "Data Summarization",
+      "duration": "21:12",
+      "views": "260,961 views",
+      "channel": "CodeWithHarry",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Exploratory Data Analysis Using Python | Data Science For Beginners | Edureka | ML/DS Live 1",
+      "url": "https://www.youtube.com/watch?v=OrvH-n-Jzxk",
+      "topic": "EDA",
+      "subtopic": "Data Summarization",
+      "duration": "40:21",
+      "views": "12,251 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Exploratory Data Analysis (EDA) Using Python | Python Data Analysis | Python Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=-o3AxdVcUtQ",
+      "topic": "EDA",
+      "subtopic": "Data Transformation",
+      "duration": "29:59",
+      "views": "375,021 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Step By Step Process In EDA And Feature Engineering In Data Science Projects",
+      "url": "https://www.youtube.com/watch?v=xhB-dmKmzRk",
+      "topic": "EDA",
+      "subtopic": "Data Transformation",
+      "duration": "14:19",
+      "views": "138,480 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 22-Univariate, Bivariate and Multivariate Analysis- Part1 (EDA)-Data Science",
+      "url": "https://www.youtube.com/watch?v=JG8GRlMjp3c",
+      "topic": "EDA",
+      "subtopic": "Data Transformation",
+      "duration": "13:11",
+      "views": "402,511 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Do FASTER Python Exploratory Data Analysis with this!",
+      "url": "https://www.youtube.com/watch?v=P0_gjv3j9YQ",
+      "topic": "EDA",
+      "subtopic": "Data Transformation",
+      "duration": "0:57",
+      "views": "69,765 views",
+      "channel": "Nicholas Renotte",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Exploratory Data Analysis in Python | Exploratory Data Analysis Using Python | Python Data Analysis",
+      "url": "https://www.youtube.com/watch?v=3yfj2omPXMk",
+      "topic": "EDA",
+      "subtopic": "Data Transformation",
+      "duration": "45:59",
+      "views": "1,555 views",
+      "channel": "upGrad",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 8- Matplotlib (Simple Visualization Library)",
+      "url": "https://www.youtube.com/watch?v=czQO1_GEEos",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Matplotlib",
+      "duration": "25:55",
+      "views": "157,761 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Matplotlib Tutorial | Matplotlib Tutorial | Python Tutorial | Python Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=yZTBMMdPOww",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Matplotlib",
+      "duration": "34:57",
+      "views": "356,903 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python: Intro to Visualization with Matplotlib",
+      "url": "https://www.youtube.com/watch?v=MbKrSmoMads",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Matplotlib",
+      "duration": "14:52",
+      "views": "39,925 views",
+      "channel": "Oggi AI - Artificial Intelligence Today",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Visualization | Data Visualization Python | Intellipaat",
+      "url": "https://www.youtube.com/watch?v=_YWwU-gJI5U",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Matplotlib",
+      "duration": "47:14",
+      "views": "73,874 views",
+      "channel": "Intellipaat",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "7 Python Data Visualization Libraries in 15 minutes",
+      "url": "https://www.youtube.com/watch?v=4O_o53ag3ag",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Matplotlib",
+      "duration": "15:03",
+      "views": "78,290 views",
+      "channel": "Rob Mulla",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Seaborn Tutorial | Data Visualization in Python Using Seaborn | Edureka",
+      "url": "https://www.youtube.com/watch?v=TLdXM0A7SR8",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Seaborn",
+      "duration": "20:41",
+      "views": "127,778 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "What is Data Visualization | Python Seaborn Tutorials",
+      "url": "https://www.youtube.com/watch?v=hLbVXF70BCE",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Seaborn",
+      "duration": "13:45",
+      "views": "57,069 views",
+      "channel": "WsCube Tech",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Seaborn Tutorial | Python Seaborn Plots | Python Seaborn Tutorial For Beginners | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=eG663qYKjVw",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Seaborn",
+      "duration": "40:44",
+      "views": "42,716 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Seaborn Tutorial | Data Visualization in Python Using Seaborn | Intellipaat",
+      "url": "https://www.youtube.com/watch?v=TQeDskgtP-A",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Seaborn",
+      "duration": "34:40",
+      "views": "6,048 views",
+      "channel": "Intellipaat",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Seaborn Python Tutorial | Data Visualization Using Python in Seaborn | Great Learning",
+      "url": "https://www.youtube.com/watch?v=Og8hFZoACuE",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Seaborn",
+      "duration": "40:57",
+      "views": "24,921 views",
+      "channel": "Great Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data visualization with plotly py: Version 3 and beyond - Jon Mease",
+      "url": "https://www.youtube.com/watch?v=cuTMbGjN2GQ",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Plotly",
+      "duration": "37:02",
+      "views": "3,821 views",
+      "channel": "PyData",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "7 Python Data Visualization Libraries in 15 minutes",
+      "url": "https://www.youtube.com/watch?v=4O_o53ag3ag",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Plotly",
+      "duration": "15:03",
+      "views": "78,290 views",
+      "channel": "Rob Mulla",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Visualization as The First and Last Mile of Data Science Plotly Express and Dash | SciPy 2021",
+      "url": "https://www.youtube.com/watch?v=FpCgG85g2Hw",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Plotly",
+      "duration": "31:12",
+      "views": "52,959 views",
+      "channel": "Enthought",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Scatter Plot -- Python Plotly (part 2)",
+      "url": "https://www.youtube.com/watch?v=oxJrJMHltsQ",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Plotly",
+      "duration": "18:46",
+      "views": "3,573 views",
+      "channel": "Charming Data",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "3D Plot in Plotly | Data Visualization in Python",
+      "url": "https://www.youtube.com/watch?v=FngulNSPkDg",
+      "topic": "Data Visualization Tools",
+      "subtopic": "Plotly",
+      "duration": "3:35",
+      "views": "5,701 views",
+      "channel": "KGP Talkie",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Cleaning in Pandas | Python Pandas Tutorials",
+      "url": "https://www.youtube.com/watch?v=bDhvCp3_lYw",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Cleaning Techniques",
+      "duration": "38:37",
+      "views": "297,588 views",
+      "channel": "Alex The Analyst",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "DATA CLEANING Using PYTHON for Data Analytics, Data Science & Machine Learning (Project) - LIVE",
+      "url": "https://www.youtube.com/watch?v=ofBMjKKt2Po",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Cleaning Techniques",
+      "duration": "1:37:15",
+      "views": "54,968 views",
+      "channel": "WsCube Tech",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Pandas & Python for Data Analysis by Example \u2013 Full Course for Beginners",
+      "url": "https://www.youtube.com/watch?v=gtjxAH8uaP0",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Cleaning Techniques",
+      "duration": "4:57:59",
+      "views": "380,123 views",
+      "channel": "freeCodeCamp.org",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Machine Learning - Class 5 |  Data Exploration - Data Cleaning | Machine Learning | Edureka",
+      "url": "https://www.youtube.com/watch?v=T18rp49owgM",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Cleaning Techniques",
+      "duration": "19:02",
+      "views": "21,657 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Cleaning Explained in Hindi l Data Science and Big Data Analytics",
+      "url": "https://www.youtube.com/watch?v=m9aHlwGYi7A",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Cleaning Techniques",
+      "duration": "7:23",
+      "views": "50,276 views",
+      "channel": "5 Minutes Engineering",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Cleaning in Pandas | Python Pandas Tutorials",
+      "url": "https://www.youtube.com/watch?v=bDhvCp3_lYw",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Imputation",
+      "duration": "38:37",
+      "views": "297,588 views",
+      "channel": "Alex The Analyst",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Cleaning Explained in Hindi l Data Science and Big Data Analytics",
+      "url": "https://www.youtube.com/watch?v=m9aHlwGYi7A",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Imputation",
+      "duration": "7:23",
+      "views": "50,276 views",
+      "channel": "5 Minutes Engineering",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "\ud83d\ude80 Data Cleaning/Data Preprocessing Before Building a Model - A Comprehensive Guide",
+      "url": "https://www.youtube.com/watch?v=GP-2634exqA",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Imputation",
+      "duration": "58:18",
+      "views": "66,557 views",
+      "channel": "Learn with Ankit",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Cleaning Tutorial | Cleaning Data With Python and Pandas",
+      "url": "https://www.youtube.com/watch?v=OS2m0f2gVJ0",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Imputation",
+      "duration": "15:38",
+      "views": "155,799 views",
+      "channel": "Soumil Shah",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Cleaning Full Course for Data Science, Data Analysis, Machine Learning [FREE] - 2024 Edition",
+      "url": "https://www.youtube.com/watch?v=ITy8R4278sk",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Imputation",
+      "duration": "3:29:35",
+      "views": "93,818 views",
+      "channel": "WsCube Tech",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Cleaning in Pandas | Python Pandas Tutorials",
+      "url": "https://www.youtube.com/watch?v=bDhvCp3_lYw",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Validation",
+      "duration": "38:37",
+      "views": "297,588 views",
+      "channel": "Alex The Analyst",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data cleaning - Model Building and Validation",
+      "url": "https://www.youtube.com/watch?v=WAhfpxgrHiw",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Validation",
+      "duration": "1:43",
+      "views": "303 views",
+      "channel": "Udacity",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Cleaning Explained in Hindi l Data Science and Big Data Analytics",
+      "url": "https://www.youtube.com/watch?v=m9aHlwGYi7A",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Validation",
+      "duration": "7:23",
+      "views": "50,276 views",
+      "channel": "5 Minutes Engineering",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Cleaning Data in Excel | Excel Tutorials for Beginners",
+      "url": "https://www.youtube.com/watch?v=_jmiEGZ6PIY",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Validation",
+      "duration": "21:04",
+      "views": "545,122 views",
+      "channel": "Alex The Analyst",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Cleaning Tutorial | Cleaning Data With Python and Pandas",
+      "url": "https://www.youtube.com/watch?v=OS2m0f2gVJ0",
+      "topic": "Data Cleaning",
+      "subtopic": "Data Validation",
+      "duration": "15:38",
+      "views": "155,799 views",
+      "channel": "Soumil Shah",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Tutorial: Probability distributions",
+      "url": "https://www.youtube.com/watch?v=HR59jIi5tFE",
+      "topic": "Probability",
+      "subtopic": "Probability Distributions",
+      "duration": "4:00",
+      "views": "4,265 views",
+      "channel": "DataCamp",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Statistics and Probability for DS | Data Science | Edureka | DS Rewind - 1",
+      "url": "https://www.youtube.com/watch?v=Un910TAiZ_k",
+      "topic": "Probability",
+      "subtopic": "Probability Distributions",
+      "duration": "45:49",
+      "views": "4,119 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)",
+      "url": "https://www.youtube.com/watch?v=Vfo5le26IhY",
+      "topic": "Probability",
+      "subtopic": "Probability Distributions",
+      "duration": "7:12:51",
+      "views": "1,872,956 views",
+      "channel": "Great Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Complete Statistics For Data Science In 6 hours By Krish Naik",
+      "url": "https://www.youtube.com/watch?v=LZzq1zSL1bs",
+      "topic": "Probability",
+      "subtopic": "Probability Distributions",
+      "duration": "5:28:32",
+      "views": "955,561 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python for Data Analysis: Probability Distributions",
+      "url": "https://www.youtube.com/watch?v=uial-2girHQ",
+      "topic": "Probability",
+      "subtopic": "Probability Distributions",
+      "duration": "32:47",
+      "views": "57,598 views",
+      "channel": "DataDaft",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Tutorial: Conditional probabilities",
+      "url": "https://www.youtube.com/watch?v=GIS7N4vgZtU",
+      "topic": "Probability",
+      "subtopic": "Conditional Probability",
+      "duration": "3:36",
+      "views": "6,019 views",
+      "channel": "DataCamp",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Conditional Probability | Conditional Probability Examples | Probability And Statistics |Simplilearn",
+      "url": "https://www.youtube.com/watch?v=a8EJUGSgB6k",
+      "topic": "Probability",
+      "subtopic": "Conditional Probability",
+      "duration": "7:40",
+      "views": "5,791 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Science: Conditional Probabilities (03a)",
+      "url": "https://www.youtube.com/watch?v=NBvs7-YOqnw",
+      "topic": "Probability",
+      "subtopic": "Conditional Probability",
+      "duration": "7:12",
+      "views": "1,497 views",
+      "channel": "Jordan Boyd-Graber",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)",
+      "url": "https://www.youtube.com/watch?v=Vfo5le26IhY",
+      "topic": "Probability",
+      "subtopic": "Conditional Probability",
+      "duration": "7:12:51",
+      "views": "1,872,956 views",
+      "channel": "Great Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "All Important Topics In Probability For Data Science In 1 Video",
+      "url": "https://www.youtube.com/watch?v=MOptXrYYcoY",
+      "topic": "Probability",
+      "subtopic": "Conditional Probability",
+      "duration": "27:15",
+      "views": "79,786 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 47- Bayes' Theorem| Conditional Probability- Machine Learning",
+      "url": "https://www.youtube.com/watch?v=71oNiqPoKD8",
+      "topic": "Probability",
+      "subtopic": "Bayes' Theorem",
+      "duration": "11:02",
+      "views": "309,065 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Bayes' Theorem, Clearly Explained!!!!",
+      "url": "https://www.youtube.com/watch?v=9wCnvr7Xw4E",
+      "topic": "Probability",
+      "subtopic": "Bayes' Theorem",
+      "duration": "14:00",
+      "views": "363,482 views",
+      "channel": "StatQuest with Josh Starmer",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Bayes Theorem | Bayes Theorem Example | Probability And Statistics Tutorial | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=XzFpcHW7Nik",
+      "topic": "Probability",
+      "subtopic": "Bayes' Theorem",
+      "duration": "5:49",
+      "views": "17,558 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Bayes Theorem Explained with Conditional Probability using Python | Bayesian Networks",
+      "url": "https://www.youtube.com/watch?v=Q6CwVd_50Sc",
+      "topic": "Probability",
+      "subtopic": "Bayes' Theorem",
+      "duration": "3:55",
+      "views": "1,525 views",
+      "channel": "FreeBirds Crew - Data Science and Generative AI",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Video 23 : Bayes Theorem - Machine Learning Python Statistics and Probability for Data Science",
+      "url": "https://www.youtube.com/watch?v=Zy5p9yYIO-U",
+      "topic": "Probability",
+      "subtopic": "Bayes' Theorem",
+      "duration": "9:45",
+      "views": "188 views",
+      "channel": "Manifold AI Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "What is Hypothesis Testing ? Math, Statistics for data science, machine learning",
+      "url": "https://www.youtube.com/watch?v=fb8BSFr0isg",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Null and Alternative Hypotheses",
+      "duration": "13:56",
+      "views": "133,331 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hypothesis Testing and The Null Hypothesis, Clearly Explained!!!",
+      "url": "https://www.youtube.com/watch?v=0oc49DyA3hU",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Null and Alternative Hypotheses",
+      "duration": "14:41",
+      "views": "553,912 views",
+      "channel": "StatQuest with Josh Starmer",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hypothesis Testing Statistics | Hypothesis Testing | Data Science | Edureka Rewind - 4",
+      "url": "https://www.youtube.com/watch?v=TNEpNnttmnQ",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Null and Alternative Hypotheses",
+      "duration": "55:34",
+      "views": "1,349 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hypothesis Testing Statistics | Hypothesis Testing | Data Science | Edureka Rewind - 4",
+      "url": "https://www.youtube.com/watch?v=gd3wGh0xkzs",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Null and Alternative Hypotheses",
+      "duration": "54:01",
+      "views": "1,158 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hypothesis Testing Statistics | Hypothesis Testing in Data Science | Data Science Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=U5vt3_dfKys",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Null and Alternative Hypotheses",
+      "duration": "54:36",
+      "views": "43,983 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 31- Hypothesis Test, Type 1 Error, Type 2 Error",
+      "url": "https://www.youtube.com/watch?v=Y3QzLIBp64M",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Type I and Type II Errors",
+      "duration": "11:45",
+      "views": "294,203 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Introduction to Type I and Type II errors | AP Statistics | Khan Academy",
+      "url": "https://www.youtube.com/watch?v=Hdbbx7DIweQ",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Type I and Type II Errors",
+      "duration": "5:03",
+      "views": "337,614 views",
+      "channel": "Khan Academy",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Type I error vs Type II error",
+      "url": "https://www.youtube.com/watch?v=a_l991xUAOU",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Type I and Type II Errors",
+      "duration": "3:31",
+      "views": "460,026 views",
+      "channel": "365 Data Science",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "type i and type ii errors, type i and type ii error in hypothesis testing, research methodology",
+      "url": "https://www.youtube.com/watch?v=4H169d33Vso",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Type I and Type II Errors",
+      "duration": "4:24",
+      "views": "250,492 views",
+      "channel": "DWIVEDI GUIDANCE",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "How To Identify Type I and Type II Errors In Statistics",
+      "url": "https://www.youtube.com/watch?v=9yQm9F2_yIk",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Type I and Type II Errors",
+      "duration": "11:24",
+      "views": "422,731 views",
+      "channel": "The Organic Chemistry Tutor",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "What is Hypothesis Testing ? Math, Statistics for data science, machine learning",
+      "url": "https://www.youtube.com/watch?v=fb8BSFr0isg",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Hypothesis Testing Procedures",
+      "duration": "13:56",
+      "views": "133,331 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hypothesis testing Practical Implementation|Hypothesis testing with data example in python",
+      "url": "https://www.youtube.com/watch?v=DaBL4ZR5FSY",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Hypothesis Testing Procedures",
+      "duration": "16:48",
+      "views": "44,951 views",
+      "channel": "Unfold Data Science",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 33- P Value,T test, Correlation Implementation with Python- Hypothesis Testing",
+      "url": "https://www.youtube.com/watch?v=4-rxTA_5_xA",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Hypothesis Testing Procedures",
+      "duration": "20:02",
+      "views": "168,545 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hypothesis Testing Statistics | Hypothesis Testing in Data Science | Data Science Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=U5vt3_dfKys",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Hypothesis Testing Procedures",
+      "duration": "54:36",
+      "views": "43,983 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hypothesis Testing Statistics | Hypothesis Testing | Data Science | Edureka Rewind - 4",
+      "url": "https://www.youtube.com/watch?v=gd3wGh0xkzs",
+      "topic": "Hypothesis Testing",
+      "subtopic": "Hypothesis Testing Procedures",
+      "duration": "54:01",
+      "views": "1,158 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Linear Regression Analysis | Linear Regression in Python | Machine Learning Algorithms | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=NUXdtN1W1FE",
+      "topic": "Regression Analysis",
+      "subtopic": "Linear Regression",
+      "duration": "35:46",
+      "views": "509,997 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Machine Learning Tutorial Python - 2: Linear Regression Single Variable",
+      "url": "https://www.youtube.com/watch?v=8jazNUpO3lQ",
+      "topic": "Regression Analysis",
+      "subtopic": "Linear Regression",
+      "duration": "15:14",
+      "views": "1,106,239 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 26- Linear Regression Indepth Maths Intuition- Data Science",
+      "url": "https://www.youtube.com/watch?v=1-OGRohmH2s",
+      "topic": "Regression Analysis",
+      "subtopic": "Linear Regression",
+      "duration": "24:15",
+      "views": "334,124 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Linear Regression Algorithm | Linear Regression in Python | Machine Learning Algorithm | Edureka",
+      "url": "https://www.youtube.com/watch?v=E5RjzSK0fvY",
+      "topic": "Regression Analysis",
+      "subtopic": "Linear Regression",
+      "duration": "28:36",
+      "views": "794,878 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Machine Learning Tutorial Python - 3: Linear Regression Multiple Variables",
+      "url": "https://www.youtube.com/watch?v=J_LnPL3Qg70",
+      "topic": "Regression Analysis",
+      "subtopic": "Linear Regression",
+      "duration": "14:08",
+      "views": "627,707 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Machine Learning Tutorial Python - 8:  Logistic Regression (Binary Classification)",
+      "url": "https://www.youtube.com/watch?v=zM4VZR0px8E",
+      "topic": "Regression Analysis",
+      "subtopic": "Logistic Regression",
+      "duration": "19:19",
+      "views": "601,513 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Logistic Regression | Logistic Regression in Python | Machine Learning Algorithms | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=XnOAdxOWXWg",
+      "topic": "Regression Analysis",
+      "subtopic": "Logistic Regression",
+      "duration": "38:17",
+      "views": "190,409 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Logistic Regression model using Python | Logistic Regression Model | Edureka | DL Live - 1",
+      "url": "https://www.youtube.com/watch?v=RLuWg9Av3es",
+      "topic": "Regression Analysis",
+      "subtopic": "Logistic Regression",
+      "duration": "51:33",
+      "views": "4,284 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Logistic Regression in Python | Logistic Regression Example | Machine Learning Algorithms | Edureka",
+      "url": "https://www.youtube.com/watch?v=VCJdg7YBbAQ",
+      "topic": "Regression Analysis",
+      "subtopic": "Logistic Regression",
+      "duration": "53:41",
+      "views": "405,336 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Linear Regression vs Logistic Regression | Data Science Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=OCwZyYH14uw",
+      "topic": "Regression Analysis",
+      "subtopic": "Logistic Regression",
+      "duration": "20:27",
+      "views": "422,122 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Time Series Analysis in Python | Time Series Forecasting | Data Science with Python | Edureka",
+      "url": "https://www.youtube.com/watch?v=e8Yw4alG16Q",
+      "topic": "Regression Analysis",
+      "subtopic": "Time Series Analysis",
+      "duration": "38:20",
+      "views": "677,523 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "What is Time Series Analysis?",
+      "url": "https://www.youtube.com/watch?v=GE3JOFwTWVM",
+      "topic": "Regression Analysis",
+      "subtopic": "Time Series Analysis",
+      "duration": "7:29",
+      "views": "199,353 views",
+      "channel": "IBM Technology",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Time Series Vs Non Time Series Problems- Why Time Series Forecasting Is Difficult?",
+      "url": "https://www.youtube.com/watch?v=whmI0WHuIK4",
+      "topic": "Regression Analysis",
+      "subtopic": "Time Series Analysis",
+      "duration": "11:09",
+      "views": "48,657 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Time Series Forecasting In Python | Time Series Analysis | ML Projects Using Python | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=Ib4sLduEhTs",
+      "topic": "Regression Analysis",
+      "subtopic": "Time Series Analysis",
+      "duration": "1:12:00",
+      "views": "56,494 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Time Series Analysis | Time Series Forecasting | Time Series Analysis in R | Ph.D. (Stanford)",
+      "url": "https://www.youtube.com/watch?v=FPM6it4v8MY",
+      "topic": "Regression Analysis",
+      "subtopic": "Time Series Analysis",
+      "duration": "4:46:22",
+      "views": "311,789 views",
+      "channel": "Great Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Classification In Machine Learning | Machine Learning Tutorial | Python Training | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=xG-E--Ak5jg",
+      "topic": "Supervised Learning",
+      "subtopic": "Classification Algorithms",
+      "duration": "1:03:46",
+      "views": "70,778 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Classification in Machine Learning  | Machine Learning Tutorial | Python Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=pXdum128xww",
+      "topic": "Supervised Learning",
+      "subtopic": "Classification Algorithms",
+      "duration": "33:24",
+      "views": "150,399 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Types Of Machine Learning | Machine Learning Algorithms | Machine Learning Tutorial | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=olFxW7kdtP8",
+      "topic": "Supervised Learning",
+      "subtopic": "Classification Algorithms",
+      "duration": "21:09",
+      "views": "271,612 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Classification and Regression in Machine Learning",
+      "url": "https://www.youtube.com/watch?v=TJveOYsK6MY",
+      "topic": "Supervised Learning",
+      "subtopic": "Classification Algorithms",
+      "duration": "2:48",
+      "views": "216,408 views",
+      "channel": "Quantopian",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Live Day 1- Introduction To Machine Learning Algorithms For Data Science",
+      "url": "https://www.youtube.com/watch?v=4UJelID_ICw",
+      "topic": "Supervised Learning",
+      "subtopic": "Classification Algorithms",
+      "duration": "1:45:39",
+      "views": "558,550 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Linear Regression Algorithm | Linear Regression in Python | Machine Learning Algorithm | Edureka",
+      "url": "https://www.youtube.com/watch?v=E5RjzSK0fvY",
+      "topic": "Supervised Learning",
+      "subtopic": "Regression Algorithms",
+      "duration": "28:36",
+      "views": "794,878 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Linear Regression Analysis | Linear Regression in Python | Machine Learning Algorithms | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=NUXdtN1W1FE",
+      "topic": "Supervised Learning",
+      "subtopic": "Regression Algorithms",
+      "duration": "35:46",
+      "views": "510,003 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Live Day 1- Introduction To Machine Learning Algorithms For Data Science",
+      "url": "https://www.youtube.com/watch?v=4UJelID_ICw",
+      "topic": "Supervised Learning",
+      "subtopic": "Regression Algorithms",
+      "duration": "1:45:39",
+      "views": "558,535 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Classification and Regression in Machine Learning",
+      "url": "https://www.youtube.com/watch?v=TJveOYsK6MY",
+      "topic": "Supervised Learning",
+      "subtopic": "Regression Algorithms",
+      "duration": "2:48",
+      "views": "216,408 views",
+      "channel": "Quantopian",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Logistic Regression | Logistic Regression in Python | Machine Learning Algorithms | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=XnOAdxOWXWg",
+      "topic": "Supervised Learning",
+      "subtopic": "Regression Algorithms",
+      "duration": "38:17",
+      "views": "190,409 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Ensemble Learning Tutorial | Ensemble Techniques | Machine Learning Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=CDewPfLV4Tc",
+      "topic": "Supervised Learning",
+      "subtopic": "Ensemble Methods",
+      "duration": "39:34",
+      "views": "25,852 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Tutorial: Introduction to ensemble methods",
+      "url": "https://www.youtube.com/watch?v=bN0OU7jeObI",
+      "topic": "Supervised Learning",
+      "subtopic": "Ensemble Methods",
+      "duration": "3:42",
+      "views": "1,134 views",
+      "channel": "DataCamp",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Ensemble Learning | Ensemble Learning In Machine Learning | Machine Learning Tutorial | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=WtWxOhhZWX0",
+      "topic": "Supervised Learning",
+      "subtopic": "Ensemble Methods",
+      "duration": "35:45",
+      "views": "99,027 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Classification In Machine Learning | Machine Learning Tutorial | Python Training | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=xG-E--Ak5jg",
+      "topic": "Supervised Learning",
+      "subtopic": "Ensemble Methods",
+      "duration": "1:03:46",
+      "views": "70,778 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Classification in Machine Learning  | Machine Learning Tutorial | Python Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=pXdum128xww",
+      "topic": "Supervised Learning",
+      "subtopic": "Ensemble Methods",
+      "duration": "33:24",
+      "views": "150,398 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Machine Learning Tutorial Python - 13:  K Means Clustering Algorithm",
+      "url": "https://www.youtube.com/watch?v=EItlUEPCIzM",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Clustering Algorithms",
+      "duration": "25:15",
+      "views": "661,950 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "K-Means Clustering Model Using Python | Data Science Algorithms | Edureka | ML Rewind -2",
+      "url": "https://www.youtube.com/watch?v=IBMwtDGXgcw",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Clustering Algorithms",
+      "duration": "41:59",
+      "views": "4,930 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "K-Means Clustering Model Using Python | Data Science Algorithms | Edureka | DS Rewind -1",
+      "url": "https://www.youtube.com/watch?v=tn4VA3eJ28M",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Clustering Algorithms",
+      "duration": "33:39",
+      "views": "3,694 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "K-Means Clustering Model Using Python | Data Science Algorithms  | Data Science  | Edureka Rewind",
+      "url": "https://www.youtube.com/watch?v=ZwAnno3ekOs",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Clustering Algorithms",
+      "duration": "44:46",
+      "views": "1,405 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Clustering in Machine Learning",
+      "url": "https://www.youtube.com/watch?v=wk2ylI1qgU0",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Clustering Algorithms",
+      "duration": "6:53",
+      "views": "30,942 views",
+      "channel": "Codecademy",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Machine Learning Tutorial Python - 19: Principal Component Analysis (PCA) with Python Code",
+      "url": "https://www.youtube.com/watch?v=8klqIM9UvAc",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Dimensionality Reduction",
+      "duration": "24:09",
+      "views": "193,544 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Machine Learning Methods: Unsupervised Learning: Dimensionality Reduction & Clustering",
+      "url": "https://www.youtube.com/watch?v=YgOm4Ek1hYM",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Dimensionality Reduction",
+      "duration": "16:44",
+      "views": "282 views",
+      "channel": "OmicsLogic",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Unsupervised Learning: Dimensionality Reduction (Marcello Restelli)",
+      "url": "https://www.youtube.com/watch?v=iSdXdJBLNyc",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Dimensionality Reduction",
+      "duration": "6:50",
+      "views": "405 views",
+      "channel": "Polimi OpenKnowledge",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Dimensionality Reduction",
+      "url": "https://www.youtube.com/watch?v=3uxOyk-SczU",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Dimensionality Reduction",
+      "duration": "3:10",
+      "views": "46,448 views",
+      "channel": "Udacity",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Unsupervised Machine Learning in Python | Decorrelating Your Data and Dimension Reduction",
+      "url": "https://www.youtube.com/watch?v=_HHr3hzNhDY",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Dimensionality Reduction",
+      "duration": "10:34",
+      "views": "30 views",
+      "channel": "SIncorporation",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Automate Anomaly Detection Using Pycaret -Data Science And Machine Learning",
+      "url": "https://www.youtube.com/watch?v=kbssBdFf764",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Anomaly Detection",
+      "duration": "15:15",
+      "views": "35,965 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Understanding Unsupervised Machine Learning | Clustering and Anomaly Detection",
+      "url": "https://www.youtube.com/watch?v=Fxat5OkinvQ",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Anomaly Detection",
+      "duration": "1:44",
+      "views": "3,371 views",
+      "channel": "Altair",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Complete Anomaly Detection Tutorials Machine Learning And Its Types With Implementation | Krish Naik",
+      "url": "https://www.youtube.com/watch?v=OS9xRGKfx4E",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Anomaly Detection",
+      "duration": "36:59",
+      "views": "66,849 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Isolation Forest for Outlier Detection within Python",
+      "url": "https://www.youtube.com/watch?v=O9VvmWj-JAk",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Anomaly Detection",
+      "duration": "14:40",
+      "views": "27,746 views",
+      "channel": "Andy McDonald",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python at the Intersection of Data Science, Machine Learning & Cyber Anomaly Detection | SciPy 2016",
+      "url": "https://www.youtube.com/watch?v=0KXfRGD-Ins",
+      "topic": "Unsupervised Learning",
+      "subtopic": "Anomaly Detection",
+      "duration": "29:53",
+      "views": "3,163 views",
+      "channel": "Enthought",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "8.5. Model Selection in Machine Learning | How to choose the right Machine Learning model",
+      "url": "https://www.youtube.com/watch?v=iUUSamG4P80",
+      "topic": "Model Evaluation",
+      "subtopic": "Model Selection Techniques",
+      "duration": "15:35",
+      "views": "35,260 views",
+      "channel": "Siddhardhan",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "8.6. Model Selection in Machine Learning with Python | Choosing the right Machine Learning model",
+      "url": "https://www.youtube.com/watch?v=zU88wcLbBF8",
+      "topic": "Model Evaluation",
+      "subtopic": "Model Selection Techniques",
+      "duration": "1:05:08",
+      "views": "13,271 views",
+      "channel": "Siddhardhan",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Feature Selection In Machine Learning | Feature Selection Techniques With Examples | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=5bHpPQ6_OU4",
+      "topic": "Model Evaluation",
+      "subtopic": "Model Selection Techniques",
+      "duration": "22:39",
+      "views": "117,408 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Model Selection & Boosting  | Machine Learning Tutorial |  Data Science  Edureka Rewind -  5",
+      "url": "https://www.youtube.com/watch?v=08EfT4J02YA",
+      "topic": "Model Evaluation",
+      "subtopic": "Model Selection Techniques",
+      "duration": "1:01:50",
+      "views": "747 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Model Selection & Boosting | Machine Learning Tutorial | Edureka | Machine Learning Rewind - 3",
+      "url": "https://www.youtube.com/watch?v=5zWREl5-o8k",
+      "topic": "Model Evaluation",
+      "subtopic": "Model Selection Techniques",
+      "duration": "1:02:44",
+      "views": "3,152 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Overfitting And Underfitting Machine Learning | Machine Learning Tutorial For Beginners |Simplilearn",
+      "url": "https://www.youtube.com/watch?v=W-0-u6XVbE4",
+      "topic": "Model Evaluation",
+      "subtopic": "Overfitting and Underfitting",
+      "duration": "16:10",
+      "views": "38,626 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Overfitting and Underfitting Explained with Examples in Hindi ll Machine Learning Course",
+      "url": "https://www.youtube.com/watch?v=ICCA3-7a5bw",
+      "topic": "Model Evaluation",
+      "subtopic": "Overfitting and Underfitting",
+      "duration": "9:16",
+      "views": "541,034 views",
+      "channel": "5 Minutes Engineering",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Machine Learning - Supervised Learning Model Evaluation Overfitting & Underfitting",
+      "url": "https://www.youtube.com/watch?v=hI8YJDpCxf0",
+      "topic": "Model Evaluation",
+      "subtopic": "Overfitting and Underfitting",
+      "duration": "2:19",
+      "views": "8,989 views",
+      "channel": "Cognitive Class",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Overfitting in Machine Learning  | Python Tutorial |  Machine Learning Tutorial | Edureka",
+      "url": "https://www.youtube.com/watch?v=Om1SeVpBiiQ",
+      "topic": "Model Evaluation",
+      "subtopic": "Overfitting and Underfitting",
+      "duration": "14:21",
+      "views": "30,936 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "OverFitting And UnderFitting In Models Explained - Machine Learning Tutorials Using Python In Hindi",
+      "url": "https://www.youtube.com/watch?v=nkakQ4_ouKE",
+      "topic": "Model Evaluation",
+      "subtopic": "Overfitting and Underfitting",
+      "duration": "15:04",
+      "views": "68,552 views",
+      "channel": "CodeWithHarry",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "How to select the best model using cross validation in python",
+      "url": "https://www.youtube.com/watch?v=Bcw8S449QW4",
+      "topic": "Model Evaluation",
+      "subtopic": "Cross-Validation",
+      "duration": "15:32",
+      "views": "68,213 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Adversarial Attacks.#machinelearning #neuralnetworks #deeplearning #python #datascience",
+      "url": "https://www.youtube.com/watch?v=zIBE599Zeck",
+      "topic": "Model Evaluation",
+      "subtopic": "Cross-Validation",
+      "duration": "0:48",
+      "views": "570 views",
+      "channel": "AGI Lambda",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Machine Learning with Scikit-Learn Python | K-fold Cross-validation",
+      "url": "https://www.youtube.com/watch?v=dKncsQpMTKQ",
+      "topic": "Model Evaluation",
+      "subtopic": "Cross-Validation",
+      "duration": "11:45",
+      "views": "7,533 views",
+      "channel": "Normalized Nerd",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Cross Validation : Data Science Concepts",
+      "url": "https://www.youtube.com/watch?v=wjILv3-UGM8",
+      "topic": "Model Evaluation",
+      "subtopic": "Cross-Validation",
+      "duration": "10:12",
+      "views": "37,912 views",
+      "channel": "ritvikmath",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "10.4 K-fold CV for Model Evaluation -- Code Examples (L10: Model Evaluation 3)",
+      "url": "https://www.youtube.com/watch?v=GkqJLZKGFWU",
+      "topic": "Model Evaluation",
+      "subtopic": "Cross-Validation",
+      "duration": "21:14",
+      "views": "2,826 views",
+      "channel": "Sebastian Raschka",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Neural Network In 5 Minutes | What Is A Neural Network? | How Neural Networks Work | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=bfmFfD2RIcg",
+      "topic": "Neural Networks",
+      "subtopic": "Artificial Neural Networks",
+      "duration": "5:45",
+      "views": "1,425,873 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Neural Network Simply Explained | Deep Learning Tutorial 4 (Tensorflow2.0, Keras & Python)",
+      "url": "https://www.youtube.com/watch?v=ER2It2mIagI",
+      "topic": "Neural Networks",
+      "subtopic": "Artificial Neural Networks",
+      "duration": "11:01",
+      "views": "419,865 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Neural Network Python | How to make a Neural Network in Python | Python Tutorial | Edureka",
+      "url": "https://www.youtube.com/watch?v=9UBqkUJVP4g",
+      "topic": "Neural Networks",
+      "subtopic": "Artificial Neural Networks",
+      "duration": "19:13",
+      "views": "180,766 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Build Neural Networks in Python | Neural Networks Tutorial | Edureka | DL Rewind - 1",
+      "url": "https://www.youtube.com/watch?v=SWpMXFP4sI8",
+      "topic": "Neural Networks",
+      "subtopic": "Artificial Neural Networks",
+      "duration": "45:58",
+      "views": "2,562 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "The Essential Main Ideas of Neural Networks",
+      "url": "https://www.youtube.com/watch?v=CqOfi41LfDw",
+      "topic": "Neural Networks",
+      "subtopic": "Artificial Neural Networks",
+      "duration": "18:54",
+      "views": "943,197 views",
+      "channel": "StatQuest with Josh Starmer",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow & Python)",
+      "url": "https://www.youtube.com/watch?v=zfiSAzpy9NM",
+      "topic": "Neural Networks",
+      "subtopic": "Convolutional Neural Networks",
+      "duration": "23:54",
+      "views": "951,491 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Neural Network In 5 Minutes | What Is A Neural Network? | How Neural Networks Work | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=bfmFfD2RIcg",
+      "topic": "Neural Networks",
+      "subtopic": "Convolutional Neural Networks",
+      "duration": "5:45",
+      "views": "1,425,873 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "The Essential Main Ideas of Neural Networks",
+      "url": "https://www.youtube.com/watch?v=CqOfi41LfDw",
+      "topic": "Neural Networks",
+      "subtopic": "Convolutional Neural Networks",
+      "duration": "18:54",
+      "views": "943,197 views",
+      "channel": "StatQuest with Josh Starmer",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Neural Network Simply Explained | Deep Learning Tutorial 4 (Tensorflow2.0, Keras & Python)",
+      "url": "https://www.youtube.com/watch?v=ER2It2mIagI",
+      "topic": "Neural Networks",
+      "subtopic": "Convolutional Neural Networks",
+      "duration": "11:01",
+      "views": "419,868 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "HINDI VIDEO: What Is Convolutional Neural Network? Analytics India Guru Explains",
+      "url": "https://www.youtube.com/watch?v=jwpSMg6Ebp0",
+      "topic": "Neural Networks",
+      "subtopic": "Convolutional Neural Networks",
+      "duration": "4:02",
+      "views": "146,828 views",
+      "channel": "AIM",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "What is Recurrent Neural Network (RNN)? Deep Learning Tutorial 33 (Tensorflow, Keras & Python)",
+      "url": "https://www.youtube.com/watch?v=Y2wfIKQyd1I",
+      "topic": "Neural Networks",
+      "subtopic": "Recurrent Neural Networks",
+      "duration": "16:00",
+      "views": "308,821 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Neural Network In 5 Minutes | What Is A Neural Network? | How Neural Networks Work | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=bfmFfD2RIcg",
+      "topic": "Neural Networks",
+      "subtopic": "Recurrent Neural Networks",
+      "duration": "5:45",
+      "views": "1,425,872 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Recurrent Neural Networks (RNNs), Clearly Explained!!!",
+      "url": "https://www.youtube.com/watch?v=AsNTP8Kwu80",
+      "topic": "Neural Networks",
+      "subtopic": "Recurrent Neural Networks",
+      "duration": "16:37",
+      "views": "546,423 views",
+      "channel": "StatQuest with Josh Starmer",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 29- Why Use Recurrent Neural Network and Its Application",
+      "url": "https://www.youtube.com/watch?v=CPl9XdIFbYA",
+      "topic": "Neural Networks",
+      "subtopic": "Recurrent Neural Networks",
+      "duration": "10:13",
+      "views": "209,488 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Neural Networks Explained in 5 minutes",
+      "url": "https://www.youtube.com/watch?v=jmmW0F0biz0",
+      "topic": "Neural Networks",
+      "subtopic": "Recurrent Neural Networks",
+      "duration": "4:32",
+      "views": "237,834 views",
+      "channel": "IBM Technology",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow & Python)",
+      "url": "https://www.youtube.com/watch?v=zfiSAzpy9NM",
+      "topic": "CNNs",
+      "subtopic": "Convolutional Layers",
+      "duration": "23:54",
+      "views": "951,491 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "What are Convolutional Neural Networks (CNNs)?",
+      "url": "https://www.youtube.com/watch?v=QzY57FaENXg",
+      "topic": "CNNs",
+      "subtopic": "Convolutional Layers",
+      "duration": "6:21",
+      "views": "324,033 views",
+      "channel": "IBM Technology",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Neural Networks Part 8: Image Classification with Convolutional Neural Networks (CNNs)",
+      "url": "https://www.youtube.com/watch?v=HGwBXDKFk9I",
+      "topic": "CNNs",
+      "subtopic": "Convolutional Layers",
+      "duration": "15:24",
+      "views": "242,524 views",
+      "channel": "StatQuest with Josh Starmer",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Dog vs Cat Classification Using Convolution Neural Network | Python Data Science Day",
+      "url": "https://www.youtube.com/watch?v=91TorIswgPw",
+      "topic": "CNNs",
+      "subtopic": "Convolutional Layers",
+      "duration": "22:53",
+      "views": "313 views",
+      "channel": "Visual Studio Code",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Convolutional Neural Networks (CNNs) explained",
+      "url": "https://www.youtube.com/watch?v=YRhxdVk_sIs",
+      "topic": "CNNs",
+      "subtopic": "Convolutional Layers",
+      "duration": "8:37",
+      "views": "1,324,229 views",
+      "channel": "deeplizard",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Convolutional Neural Networks | CNN | Kernel | Stride | Padding | Pooling | Flatten | Formula",
+      "url": "https://www.youtube.com/watch?v=Y1qxI-Df4Lk",
+      "topic": "CNNs",
+      "subtopic": "Pooling Layers",
+      "duration": "21:32",
+      "views": "493,954 views",
+      "channel": "Binod Suman Academy",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Image classification using CNN (CIFAR10 dataset) | Deep Learning Tutorial 24 (Tensorflow & Python)",
+      "url": "https://www.youtube.com/watch?v=7HPwo4wnJeA",
+      "topic": "CNNs",
+      "subtopic": "Pooling Layers",
+      "duration": "28:12",
+      "views": "486,410 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Deep Learning|| Layers in CNN? || Pooling Layer|| Max, Average Pooling",
+      "url": "https://www.youtube.com/watch?v=N81V8JzdHpA",
+      "topic": "CNNs",
+      "subtopic": "Pooling Layers",
+      "duration": "6:40",
+      "views": "5,265 views",
+      "channel": "MukeshTecHub",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Anusua Trivedi | Transfer Learning and Finetuning Deep Convolution Neural Network",
+      "url": "https://www.youtube.com/watch?v=nB15sW-mkHA",
+      "topic": "CNNs",
+      "subtopic": "Transfer Learning",
+      "duration": "51:42",
+      "views": "5,295 views",
+      "channel": "PyData",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Transfer Learning | Deep Learning Tutorial 27 (Tensorflow, Keras & Python)",
+      "url": "https://www.youtube.com/watch?v=LsdxvjLWkIY",
+      "topic": "CNNs",
+      "subtopic": "Transfer Learning",
+      "duration": "25:55",
+      "views": "175,638 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow & Python)",
+      "url": "https://www.youtube.com/watch?v=zfiSAzpy9NM",
+      "topic": "CNNs",
+      "subtopic": "Transfer Learning",
+      "duration": "23:54",
+      "views": "951,491 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 25- Data Augmentation In CNN-Deep Learning",
+      "url": "https://www.youtube.com/watch?v=UGiLdf3fzAI",
+      "topic": "CNNs",
+      "subtopic": "Transfer Learning",
+      "duration": "7:39",
+      "views": "100,158 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 28- Create CNN Model Using Transfer Learning using Vgg 16, Resnet",
+      "url": "https://www.youtube.com/watch?v=zBOavqh3kWU",
+      "topic": "CNNs",
+      "subtopic": "Transfer Learning",
+      "duration": "14:59",
+      "views": "181,801 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "What is Recurrent Neural Network (RNN)? Deep Learning Tutorial 33 (Tensorflow, Keras & Python)",
+      "url": "https://www.youtube.com/watch?v=Y2wfIKQyd1I",
+      "topic": "RNNs",
+      "subtopic": "Recurrent Layers",
+      "duration": "16:00",
+      "views": "308,821 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Recurrent Neural Networks (RNNs), Clearly Explained!!!",
+      "url": "https://www.youtube.com/watch?v=AsNTP8Kwu80",
+      "topic": "RNNs",
+      "subtopic": "Recurrent Layers",
+      "duration": "16:37",
+      "views": "546,423 views",
+      "channel": "StatQuest with Josh Starmer",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Types of RNN | Recurrent Neural Network Types | Deep Learning Tutorial 34 (Tensorflow & Python)",
+      "url": "https://www.youtube.com/watch?v=EzsXi4WzelI",
+      "topic": "RNNs",
+      "subtopic": "Recurrent Layers",
+      "duration": "3:43",
+      "views": "73,837 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Recurrent Neural Networks (RNN) - Deep Learning w/ Python, TensorFlow & Keras p.7",
+      "url": "https://www.youtube.com/watch?v=BSpXCRTOLJA",
+      "topic": "RNNs",
+      "subtopic": "Recurrent Layers",
+      "duration": "21:20",
+      "views": "242,896 views",
+      "channel": "sentdex",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tutorial 30- Recurrent Neural Network Forward Propogation With Time",
+      "url": "https://www.youtube.com/watch?v=u8utlK_c5C8",
+      "topic": "RNNs",
+      "subtopic": "Recurrent Layers",
+      "duration": "10:54",
+      "views": "157,601 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Introduction to Long Short-Term Memory Networks  | What Is LSTM | Edureka | ML Rewind - 4",
+      "url": "https://www.youtube.com/watch?v=XgZ6WAAxzKo",
+      "topic": "RNNs",
+      "subtopic": "Long Short-Term Memory",
+      "duration": "37:44",
+      "views": "2,129 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Long Short-Term Memory (LSTM), Clearly Explained",
+      "url": "https://www.youtube.com/watch?v=YCzL96nL7j0",
+      "topic": "RNNs",
+      "subtopic": "Long Short-Term Memory",
+      "duration": "20:45",
+      "views": "552,107 views",
+      "channel": "StatQuest with Josh Starmer",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "What is LSTM (Long Short Term Memory)?",
+      "url": "https://www.youtube.com/watch?v=b61DPVFX03I",
+      "topic": "RNNs",
+      "subtopic": "Long Short-Term Memory",
+      "duration": "8:19",
+      "views": "200,184 views",
+      "channel": "IBM Technology",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "RNN Tutorial | Long Short Term Memory (LSTM) Explained | Edureka | Deep Learning Live - 2",
+      "url": "https://www.youtube.com/watch?v=g_GQr-HUDkg",
+      "topic": "RNNs",
+      "subtopic": "Long Short-Term Memory",
+      "duration": "34:59",
+      "views": "6,366 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "[LSTM] Applying and Understanding Long Short-term Memory in Python",
+      "url": "https://www.youtube.com/watch?v=rmxogwIjOhE",
+      "topic": "RNNs",
+      "subtopic": "Long Short-Term Memory",
+      "duration": "24:00",
+      "views": "1,837 views",
+      "channel": "Spencer Pao",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Simple Explanation of GRU (Gated Recurrent Units) | Deep Learning Tutorial 37 (Tensorflow & Python)",
+      "url": "https://www.youtube.com/watch?v=tOuXgORsXJ4",
+      "topic": "RNNs",
+      "subtopic": "Gated Recurrent Units",
+      "duration": "8:15",
+      "views": "126,605 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Gated Recurrent Unit | Deep Learning | GRU | CampusX",
+      "url": "https://www.youtube.com/watch?v=QQfZAoNGQmE",
+      "topic": "RNNs",
+      "subtopic": "Gated Recurrent Units",
+      "duration": "1:26:22",
+      "views": "32,266 views",
+      "channel": "CampusX",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Types of RNN | Recurrent Neural Network Types | Deep Learning Tutorial 34 (Tensorflow & Python)",
+      "url": "https://www.youtube.com/watch?v=EzsXi4WzelI",
+      "topic": "RNNs",
+      "subtopic": "Gated Recurrent Units",
+      "duration": "3:43",
+      "views": "73,837 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "[GRU] Applying and Understanding Gated Recurrent Unit in Python",
+      "url": "https://www.youtube.com/watch?v=rdz0UqQz5Sw",
+      "topic": "RNNs",
+      "subtopic": "Gated Recurrent Units",
+      "duration": "21:11",
+      "views": "10,736 views",
+      "channel": "Spencer Pao",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "L19/7 Gated Recurrent Unit in Python",
+      "url": "https://www.youtube.com/watch?v=MPTIBZ4dzNI",
+      "topic": "RNNs",
+      "subtopic": "Gated Recurrent Units",
+      "duration": "15:30",
+      "views": "2,756 views",
+      "channel": "Alex Smola",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Big Data & Hadoop Full Course - Learn Hadoop In 10 Hours | Hadoop Tutorial For Beginners | Edureka",
+      "url": "https://www.youtube.com/watch?v=1vbXmCrkT3Y",
+      "topic": "Hadoop",
+      "subtopic": "Hadoop Ecosystem",
+      "duration": "10:27:37",
+      "views": "1,453,245 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hadoop Ecosystem Explained | Big Data Hadoop Ecosystem Components | Hadoop Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=k-PrpL7_Y8s",
+      "topic": "Hadoop",
+      "subtopic": "Hadoop Ecosystem",
+      "duration": "39:30",
+      "views": "3,213 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hadoop\ud83d\udc18Ecosystem | All Components Hdfs\ud83d\udc18,Mapreduce,Hive\ud83d\udc1d,Flume,Sqoop,Yarn,Hbase,Zookeeper\ud83e\udea7,Pig\ud83d\udc37",
+      "url": "https://www.youtube.com/watch?v=8r7kHT4K1pA",
+      "topic": "Hadoop",
+      "subtopic": "Hadoop Ecosystem",
+      "duration": "11:03",
+      "views": "202,834 views",
+      "channel": "Gate Smashers",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hadoop Ecosystem Explained | Hadoop Ecosystem Architecture And Components | Hadoop | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=p0TdBqIt3fg",
+      "topic": "Hadoop",
+      "subtopic": "Hadoop Ecosystem",
+      "duration": "26:47",
+      "views": "54,575 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hadoop Tutorial for Beginners | Hadoop Tutorial | Big Data Hadoop Tutorial for Beginners | Hadoop",
+      "url": "https://www.youtube.com/watch?v=JK2MdJAWEGc",
+      "topic": "Hadoop",
+      "subtopic": "Hadoop Ecosystem",
+      "duration": "4:12:43",
+      "views": "455,821 views",
+      "channel": "Great Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Big Data Analytics Using Python | Python Big Data Tutorial | Python And Big Data | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=cUw3DsDpQCE",
+      "topic": "Hadoop",
+      "subtopic": "MapReduce",
+      "duration": "37:03",
+      "views": "75,305 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "MapReduce Jobs For Distributed Hadoop Clusters in Python",
+      "url": "https://www.youtube.com/watch?v=NAGu_oBCtwI",
+      "topic": "Hadoop",
+      "subtopic": "MapReduce",
+      "duration": "18:31",
+      "views": "12,738 views",
+      "channel": "NeuralNine",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Pyspark Tutorials 1 | Introduction to the Big Data and Hadoop Map Reduce",
+      "url": "https://www.youtube.com/watch?v=AGgyf9bO_8M",
+      "topic": "Hadoop",
+      "subtopic": "MapReduce",
+      "duration": "14:47",
+      "views": "136,245 views",
+      "channel": "Ranjan Sharma",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "What is MapReduce\u267b\ufe0fin Hadoop\ud83d\udc18| Apache Hadoop\ud83d\udc18",
+      "url": "https://www.youtube.com/watch?v=pcTFiU7wKkQ",
+      "topic": "Hadoop",
+      "subtopic": "MapReduce",
+      "duration": "9:58",
+      "views": "303,866 views",
+      "channel": "Gate Smashers",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "MapReduce Tutorial | MapReduce Tutorial For Beginners | Edureka | Big Data Rewind - 4",
+      "url": "https://www.youtube.com/watch?v=sGinqLlKxBY",
+      "topic": "Hadoop",
+      "subtopic": "MapReduce",
+      "duration": "38:12",
+      "views": "1,766 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Learn Big Data Hadoop With Python | Python Hadoop Tutorial for Beginners | Python | Edureka Rewind",
+      "url": "https://www.youtube.com/watch?v=7t6HfdE7238",
+      "topic": "Hadoop",
+      "subtopic": "HDFS",
+      "duration": "47:46",
+      "views": "2,360 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Big Data Analytics Using Python | Python Big Data Tutorial | Python And Big Data | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=cUw3DsDpQCE",
+      "topic": "Hadoop",
+      "subtopic": "HDFS",
+      "duration": "37:03",
+      "views": "75,305 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Introduction to Big Data Hadoop & Spark with Python | PySpark Tutorial | Edureka | PySpark Live - 1",
+      "url": "https://www.youtube.com/watch?v=dkHjZNmCDlo",
+      "topic": "Hadoop",
+      "subtopic": "HDFS",
+      "duration": "42:20",
+      "views": "6,819 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Big Data & Hadoop Full Course - Learn Hadoop In 10 Hours | Hadoop Tutorial For Beginners | Edureka",
+      "url": "https://www.youtube.com/watch?v=1vbXmCrkT3Y",
+      "topic": "Hadoop",
+      "subtopic": "HDFS",
+      "duration": "10:27:37",
+      "views": "1,453,245 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Hadoop Tutorial for Beginners | Hadoop Tutorial | Big Data Hadoop Tutorial for Beginners | Hadoop",
+      "url": "https://www.youtube.com/watch?v=JK2MdJAWEGc",
+      "topic": "Hadoop",
+      "subtopic": "HDFS",
+      "duration": "4:12:43",
+      "views": "455,821 views",
+      "channel": "Great Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Apache Spark Architecture | Spark Cluster Architecture Explained | Spark Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=jffQhcweGwY",
+      "topic": "Spark",
+      "subtopic": "Spark Architecture",
+      "duration": "21:17",
+      "views": "147,800 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Spark architecture explained!!\ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=F3-8jFI_OPY",
+      "topic": "Spark",
+      "subtopic": "Spark Architecture",
+      "duration": "4:11",
+      "views": "30,060 views",
+      "channel": "AK Python",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tactical Data Science Tips  Python and Spark Together - Bill Chambers (Databricks)",
+      "url": "https://www.youtube.com/watch?v=vpWe1VIffsE",
+      "topic": "Spark",
+      "subtopic": "Spark Architecture",
+      "duration": "39:54",
+      "views": "462 views",
+      "channel": "Databricks",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Pyspark Tutorial | Introduction to Apache Spark with Python | PySpark Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=PRzSWWsyHZg",
+      "topic": "Spark",
+      "subtopic": "Spark Architecture",
+      "duration": "30:33",
+      "views": "199,839 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Apache Spark Architecture Explained | PySpark Tutorial for Beginners | Edureka | PySpark Live - 2",
+      "url": "https://www.youtube.com/watch?v=BcAR0ZoAfbQ",
+      "topic": "Spark",
+      "subtopic": "Spark Architecture",
+      "duration": "33:05",
+      "views": "4,466 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Tutorial: Introduction to Spark SQL in Python",
+      "url": "https://www.youtube.com/watch?v=BRT_OtXiIcQ",
+      "topic": "Spark",
+      "subtopic": "Spark SQL",
+      "duration": "4:05",
+      "views": "4,453 views",
+      "channel": "DataCamp",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tactical Data Science Tips  Python and Spark Together - Bill Chambers (Databricks)",
+      "url": "https://www.youtube.com/watch?v=vpWe1VIffsE",
+      "topic": "Spark",
+      "subtopic": "Spark SQL",
+      "duration": "39:54",
+      "views": "462 views",
+      "channel": "Databricks",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Webinar | Data Analytics using PySpark Hands-on (Python & Spark) | Tutorial | Great Learning",
+      "url": "https://www.youtube.com/watch?v=MlbpXsO0AwU",
+      "topic": "Spark",
+      "subtopic": "Spark SQL",
+      "duration": "55:34",
+      "views": "25,700 views",
+      "channel": "Great Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Introduction to Big Data Hadoop & Spark with Python | PySpark Tutorial | Edureka | PySpark Live - 1",
+      "url": "https://www.youtube.com/watch?v=dkHjZNmCDlo",
+      "topic": "Spark",
+      "subtopic": "Spark SQL",
+      "duration": "42:20",
+      "views": "6,819 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Big Data Analytics using Spark with Python | PySpark Tutorial | Edureka Live",
+      "url": "https://www.youtube.com/watch?v=WDw2gmqi-mY",
+      "topic": "Spark",
+      "subtopic": "Spark SQL",
+      "duration": "44:15",
+      "views": "27,025 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "What is Apache Spark? | Apache Spark Python | Spark Training | Edureka | Apache Spark Live - 1",
+      "url": "https://www.youtube.com/watch?v=LcUQ2X_fmAI",
+      "topic": "Spark",
+      "subtopic": "Spark Streaming",
+      "duration": "44:03",
+      "views": "2,821 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Webinar | Data Analytics using PySpark Hands-on (Python & Spark) | Tutorial | Great Learning",
+      "url": "https://www.youtube.com/watch?v=MlbpXsO0AwU",
+      "topic": "Spark",
+      "subtopic": "Spark Streaming",
+      "duration": "55:34",
+      "views": "25,700 views",
+      "channel": "Great Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Apache Spark Streaming with Python and PySpark - learn Apache Spark",
+      "url": "https://www.youtube.com/watch?v=bxpC0vmqzJk",
+      "topic": "Spark",
+      "subtopic": "Spark Streaming",
+      "duration": "1:50",
+      "views": "25 views",
+      "channel": "Phung Tung Lam",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Felix Cheung - Scalable Data Science in Python and R on Apache Spark",
+      "url": "https://www.youtube.com/watch?v=2gOEq36JxAU",
+      "topic": "Spark",
+      "subtopic": "Spark Streaming",
+      "duration": "42:03",
+      "views": "1,821 views",
+      "channel": "PyData",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Spark Streaming Tutorial | Spark Streaming Example | Spark Tutorial For Beginners | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=UuRhEmqqhRM",
+      "topic": "Spark",
+      "subtopic": "Spark Streaming",
+      "duration": "58:14",
+      "views": "41,194 views",
+      "channel": "Simplilearn",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "How do NoSQL databases work? Simply Explained!",
+      "url": "https://www.youtube.com/watch?v=0buKQHokLK8",
+      "topic": "NoSQL Databases",
+      "subtopic": "MongoDB",
+      "duration": "7:38",
+      "views": "1,123,327 views",
+      "channel": "Simply Explained",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Mongo DB Using Python Programming |  Document-oriented NOSQL Database",
+      "url": "https://www.youtube.com/watch?v=OfByOwHWVPE",
+      "topic": "NoSQL Databases",
+      "subtopic": "MongoDB",
+      "duration": "1:05:45",
+      "views": "1,103 views",
+      "channel": "IamPython",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Science - Databases - SQL and NOSQL using Python",
+      "url": "https://www.youtube.com/watch?v=_xP0EwrHtlY",
+      "topic": "NoSQL Databases",
+      "subtopic": "MongoDB",
+      "duration": "1:12:55",
+      "views": "937 views",
+      "channel": "IamPython",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "MongoDB with Python. How to start using NoSQL",
+      "url": "https://www.youtube.com/watch?v=ouDX1NmDlbQ",
+      "topic": "NoSQL Databases",
+      "subtopic": "MongoDB",
+      "duration": "16:47",
+      "views": "2,105 views",
+      "channel": "Data Science Garage",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "MongoDB in Python - NoSQL Document Database",
+      "url": "https://www.youtube.com/watch?v=3wNvKybVyaI",
+      "topic": "NoSQL Databases",
+      "subtopic": "MongoDB",
+      "duration": "24:33",
+      "views": "49,263 views",
+      "channel": "NeuralNine",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Get Excited about Python and NoSQL with Apache Cassandra!",
+      "url": "https://www.youtube.com/watch?v=cCavsd0YNFY",
+      "topic": "NoSQL Databases",
+      "subtopic": "Cassandra",
+      "duration": "1:04",
+      "views": "305 views",
+      "channel": "DataStax Developers",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Get Started on Python and NoSQL with Apache Cassandra",
+      "url": "https://www.youtube.com/watch?v=ENvr1ssphlg",
+      "topic": "NoSQL Databases",
+      "subtopic": "Cassandra",
+      "duration": "2:06:50",
+      "views": "2,688 views",
+      "channel": "DataStax Developers",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Science - Cassandra (Column-wide NOSQL Database) Using Python Programming",
+      "url": "https://www.youtube.com/watch?v=ZuBl7kPBFSM",
+      "topic": "NoSQL Databases",
+      "subtopic": "Cassandra",
+      "duration": "57:35",
+      "views": "5,415 views",
+      "channel": "IamPython",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "NoSQL Tutorial For Beginners | Apache Cassandra Full Course | Datastax Astra DB | @SCALER",
+      "url": "https://www.youtube.com/watch?v=DhMnM6lpaY0",
+      "topic": "NoSQL Databases",
+      "subtopic": "Cassandra",
+      "duration": "53:51",
+      "views": "13,959 views",
+      "channel": "SCALER",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "How do NoSQL databases work? Simply Explained!",
+      "url": "https://www.youtube.com/watch?v=0buKQHokLK8",
+      "topic": "NoSQL Databases",
+      "subtopic": "Cassandra",
+      "duration": "7:38",
+      "views": "1,123,328 views",
+      "channel": "Simply Explained",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Redis using Python Programming | Key-value store NOSQL Database",
+      "url": "https://www.youtube.com/watch?v=lh6jLdMMlFc",
+      "topic": "NoSQL Databases",
+      "subtopic": "Redis",
+      "duration": "40:03",
+      "views": "940 views",
+      "channel": "IamPython",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Redis with Python for Data Science",
+      "url": "https://www.youtube.com/watch?v=Koh6piVaYh0",
+      "topic": "NoSQL Databases",
+      "subtopic": "Redis",
+      "duration": "21:31",
+      "views": "13,055 views",
+      "channel": "Redis",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "How do NoSQL databases work? Simply Explained!",
+      "url": "https://www.youtube.com/watch?v=0buKQHokLK8",
+      "topic": "NoSQL Databases",
+      "subtopic": "Redis",
+      "duration": "7:38",
+      "views": "1,123,328 views",
+      "channel": "Simply Explained",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Redis - The Redis List Data Type - Using Redis from Python Programming Language",
+      "url": "https://www.youtube.com/watch?v=GBKDbTa0nU0",
+      "topic": "NoSQL Databases",
+      "subtopic": "Redis",
+      "duration": "6:43",
+      "views": "1,451 views",
+      "channel": "Cognitive Programmer",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Redis Sorted Set Data Type -  Redis An In memory NoSQL Database",
+      "url": "https://www.youtube.com/watch?v=0_1x8NnQDPg",
+      "topic": "NoSQL Databases",
+      "subtopic": "Redis",
+      "duration": "8:31",
+      "views": "2,201 views",
+      "channel": "Cognitive Programmer",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Text Preprocessing | tokenization | cleaning | stemming | stopwords | lemmatization",
+      "url": "https://www.youtube.com/watch?v=hhjn4HVEdy0",
+      "topic": "Text Preprocessing",
+      "subtopic": "Tokenization",
+      "duration": "15:13",
+      "views": "88,567 views",
+      "channel": "utsav aggarwal",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Text Preprocessing in NLP | Python",
+      "url": "https://www.youtube.com/watch?v=Br5dmsa49wo",
+      "topic": "Text Preprocessing",
+      "subtopic": "Tokenization",
+      "duration": "47:07",
+      "views": "11,684 views",
+      "channel": "Hackers Realm",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Practical Python Data Science Techniques : Tokenization \u2013 From Documents to Words | packtpub.com",
+      "url": "https://www.youtube.com/watch?v=Z2B6bAA6qZA",
+      "topic": "Text Preprocessing",
+      "subtopic": "Tokenization",
+      "duration": "11:37",
+      "views": "392 views",
+      "channel": "Packt ",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Text Preprocessing | NLP Course Lecture 3",
+      "url": "https://www.youtube.com/watch?v=6C0sLtw5ctc",
+      "topic": "Text Preprocessing",
+      "subtopic": "Tokenization",
+      "duration": "1:07:48",
+      "views": "106,112 views",
+      "channel": "CampusX",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "24 Tokenization using TextBlob | Text Preprocessing and Mining for NLP | KGP Talkie",
+      "url": "https://www.youtube.com/watch?v=TRt0aTRsonY",
+      "topic": "Text Preprocessing",
+      "subtopic": "Tokenization",
+      "duration": "1:57",
+      "views": "918 views",
+      "channel": "KGP Talkie",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Text Preprocessing | tokenization | cleaning | stemming | stopwords | lemmatization",
+      "url": "https://www.youtube.com/watch?v=hhjn4HVEdy0",
+      "topic": "Text Preprocessing",
+      "subtopic": "Stemming",
+      "duration": "15:13",
+      "views": "88,567 views",
+      "channel": "utsav aggarwal",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Stemming and Lemmatization | Text Preprocessing | Text Analytics with Python",
+      "url": "https://www.youtube.com/watch?v=DloUwCf3bTU",
+      "topic": "Text Preprocessing",
+      "subtopic": "Stemming",
+      "duration": "3:44",
+      "views": "645 views",
+      "channel": "Wennovation Academy",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "tpp7: Stemming words in text preprocessing in Python | nltk pandas | machine learning",
+      "url": "https://www.youtube.com/watch?v=VaJC9rc1MxY",
+      "topic": "Text Preprocessing",
+      "subtopic": "Stemming",
+      "duration": "5:54",
+      "views": "167 views",
+      "channel": "Data Science Camp",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Stemming NLTK Python | Text Preprocessing Normalization | Natural Language Processing NLP tutorial 5",
+      "url": "https://www.youtube.com/watch?v=t0-YoOsOzOQ",
+      "topic": "Text Preprocessing",
+      "subtopic": "Stemming",
+      "duration": "16:35",
+      "views": "123 views",
+      "channel": "Ligane Foundation ",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Text Preprocessing / Normalization (Stemming, lemmatization, stopwords, punctuations)",
+      "url": "https://www.youtube.com/watch?v=-yDgQ1hbic4",
+      "topic": "Text Preprocessing",
+      "subtopic": "Stemming",
+      "duration": "4:09",
+      "views": "661 views",
+      "channel": "Computational Linguistics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Text Preprocessing | tokenization | cleaning | stemming | stopwords | lemmatization",
+      "url": "https://www.youtube.com/watch?v=hhjn4HVEdy0",
+      "topic": "Text Preprocessing",
+      "subtopic": "Lemmatization",
+      "duration": "15:13",
+      "views": "88,567 views",
+      "channel": "utsav aggarwal",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Stemming and Lemmatization | Text Preprocessing | Text Analytics with Python",
+      "url": "https://www.youtube.com/watch?v=DloUwCf3bTU",
+      "topic": "Text Preprocessing",
+      "subtopic": "Lemmatization",
+      "duration": "3:44",
+      "views": "645 views",
+      "channel": "Wennovation Academy",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Text Preprocessing / Normalization (Stemming, lemmatization, stopwords, punctuations)",
+      "url": "https://www.youtube.com/watch?v=-yDgQ1hbic4",
+      "topic": "Text Preprocessing",
+      "subtopic": "Lemmatization",
+      "duration": "4:09",
+      "views": "661 views",
+      "channel": "Computational Linguistics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Stemming and Lemmatization: NLP Tutorial For Beginners - S1 E10",
+      "url": "https://www.youtube.com/watch?v=HHAilAC3cXw",
+      "topic": "Text Preprocessing",
+      "subtopic": "Lemmatization",
+      "duration": "16:46",
+      "views": "61,995 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "NLP - Text Preprocessing and Text Classification (using Python)",
+      "url": "https://www.youtube.com/watch?v=nxhCyeRR75Q",
+      "topic": "Text Preprocessing",
+      "subtopic": "Lemmatization",
+      "duration": "14:31",
+      "views": "84,670 views",
+      "channel": "Machine Learning TV",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "A Quick Guide To Sentiment Analysis | Sentiment Analysis In Python Using Textblob  |  Edureka",
+      "url": "https://www.youtube.com/watch?v=O_B7XLfx0ic",
+      "topic": "Sentiment Analysis",
+      "subtopic": "Sentiment Analysis Techniques",
+      "duration": "7:40",
+      "views": "246,384 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Sentiment Analysis In 10 Minutes | Sentiment Analysis Using Python | Great Learning",
+      "url": "https://www.youtube.com/watch?v=Ao4-ZIPOGJI",
+      "topic": "Sentiment Analysis",
+      "subtopic": "Sentiment Analysis Techniques",
+      "duration": "7:23",
+      "views": "86,805 views",
+      "channel": "Great Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Sentiment Analysis",
+      "url": "https://www.youtube.com/watch?v=3Pzni2yfGUQ",
+      "topic": "Sentiment Analysis",
+      "subtopic": "Sentiment Analysis Techniques",
+      "duration": "10:36",
+      "views": "92,716 views",
+      "channel": "Siraj Raval",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Twitter Sentiment Analysis - Learn Python for Data Science #2",
+      "url": "https://www.youtube.com/watch?v=o_OZdbCzHUA",
+      "topic": "Sentiment Analysis",
+      "subtopic": "Sentiment Analysis Techniques",
+      "duration": "6:53",
+      "views": "382,922 views",
+      "channel": "Siraj Raval",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Twitter Sentiment Analysis | Sentiment Analysis In Python Using Tweepy and Textblob | Edureka",
+      "url": "https://www.youtube.com/watch?v=27P268Q7pE0",
+      "topic": "Sentiment Analysis",
+      "subtopic": "Sentiment Analysis Techniques",
+      "duration": "3:39",
+      "views": "71,030 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Sentiment Analysis In 10 Minutes | Sentiment Analysis Using Python | Great Learning",
+      "url": "https://www.youtube.com/watch?v=Ao4-ZIPOGJI",
+      "topic": "Sentiment Analysis",
+      "subtopic": "Sentiment Analysis Applications",
+      "duration": "7:23",
+      "views": "86,805 views",
+      "channel": "Great Learning",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "A Quick Guide To Sentiment Analysis | Sentiment Analysis In Python Using Textblob  |  Edureka",
+      "url": "https://www.youtube.com/watch?v=O_B7XLfx0ic",
+      "topic": "Sentiment Analysis",
+      "subtopic": "Sentiment Analysis Applications",
+      "duration": "7:40",
+      "views": "246,391 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Twitter Sentiment Analysis - Learn Python for Data Science #2",
+      "url": "https://www.youtube.com/watch?v=o_OZdbCzHUA",
+      "topic": "Sentiment Analysis",
+      "subtopic": "Sentiment Analysis Applications",
+      "duration": "6:53",
+      "views": "382,929 views",
+      "channel": "Siraj Raval",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "TWITTER SENTIMENT ANALYSIS (NLP) | Machine Learning Projects | GeeksforGeeks",
+      "url": "https://www.youtube.com/watch?v=4YGkfAd2iXM",
+      "topic": "Sentiment Analysis",
+      "subtopic": "Sentiment Analysis Applications",
+      "duration": "1:29:13",
+      "views": "91,390 views",
+      "channel": "GeeksforGeeks",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Text Classification Explained | Sentiment Analysis Example | Deep Learning Applications | Edureka",
+      "url": "https://www.youtube.com/watch?v=hBKI7XvD8R8",
+      "topic": "Sentiment Analysis",
+      "subtopic": "Sentiment Analysis Applications",
+      "duration": "3:03",
+      "views": "53,705 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Named Entity Recognition (NER): NLP Tutorial For Beginners - S1 E12",
+      "url": "https://www.youtube.com/watch?v=2XUhKpH0p4M",
+      "topic": "Named Entity Recognition",
+      "subtopic": "Named Entity Types",
+      "duration": "22:34",
+      "views": "103,876 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Sujit Pal: Building Named Entity Recognition Models Efficiently Using NERDS | PyData LA 2019",
+      "url": "https://www.youtube.com/watch?v=ilzFiK0nAh8",
+      "topic": "Named Entity Recognition",
+      "subtopic": "Named Entity Types",
+      "duration": "34:31",
+      "views": "2,656 views",
+      "channel": "PyData",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "DataHour: An Introduction and Hands-On to Named Entity Recognition",
+      "url": "https://www.youtube.com/watch?v=0QOuj_ULCA8",
+      "topic": "Named Entity Recognition",
+      "subtopic": "Named Entity Types",
+      "duration": "1:07:02",
+      "views": "741 views",
+      "channel": "Analytics Vidhya",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Kaggle Live-Coding: Named Entity Recognition | Kaggle",
+      "url": "https://www.youtube.com/watch?v=9Hkr5GdbEXQ",
+      "topic": "Named Entity Recognition",
+      "subtopic": "Named Entity Types",
+      "duration": "1:14:03",
+      "views": "12,472 views",
+      "channel": "Kaggle",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Building a Scalable AI Chatbot #5: Named Entity Recognition",
+      "url": "https://www.youtube.com/watch?v=LXUFvufm4tY",
+      "topic": "Named Entity Recognition",
+      "subtopic": "Named Entity Types",
+      "duration": "18:13",
+      "views": "1,322 views",
+      "channel": "MLT Artificial Intelligence",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Named Entity Recognition (NER): NLP Tutorial For Beginners - S1 E12",
+      "url": "https://www.youtube.com/watch?v=2XUhKpH0p4M",
+      "topic": "Named Entity Recognition",
+      "subtopic": "Named Entity Recognition Techniques",
+      "duration": "22:34",
+      "views": "103,876 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Sujit Pal: Building Named Entity Recognition Models Efficiently Using NERDS | PyData LA 2019",
+      "url": "https://www.youtube.com/watch?v=ilzFiK0nAh8",
+      "topic": "Named Entity Recognition",
+      "subtopic": "Named Entity Recognition Techniques",
+      "duration": "34:31",
+      "views": "2,656 views",
+      "channel": "PyData",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "DataHour: An Introduction and Hands-On to Named Entity Recognition",
+      "url": "https://www.youtube.com/watch?v=0QOuj_ULCA8",
+      "topic": "Named Entity Recognition",
+      "subtopic": "Named Entity Recognition Techniques",
+      "duration": "1:07:02",
+      "views": "741 views",
+      "channel": "Analytics Vidhya",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Named Enitity Recognition (NER) | NLP",
+      "url": "https://www.youtube.com/watch?v=iGCcuABbXO0",
+      "topic": "Named Entity Recognition",
+      "subtopic": "Named Entity Recognition Techniques",
+      "duration": "10:55",
+      "views": "11,370 views",
+      "channel": "RANJI RAJ",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Named Entity Extraction (Learn Natural Language Processing using Python)",
+      "url": "https://www.youtube.com/watch?v=MmgjhvOSd-E",
+      "topic": "Named Entity Recognition",
+      "subtopic": "Named Entity Recognition Techniques",
+      "duration": "3:32",
+      "views": "21,588 views",
+      "channel": "Analytics Vidhya",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Science & Machine Learning Project - Part 3 Data Cleaning | Image Classification",
+      "url": "https://www.youtube.com/watch?v=kwKfWBb6frs",
+      "topic": "Image Classification",
+      "subtopic": "Image Classification Techniques",
+      "duration": "40:45",
+      "views": "119,046 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Science & Machine Learning Project - Part 1 Introduction | Image Classification",
+      "url": "https://www.youtube.com/watch?v=qWXXHjV3JHI",
+      "topic": "Image Classification",
+      "subtopic": "Image Classification Techniques",
+      "duration": "4:42",
+      "views": "158,680 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Image Classification using CNN | Deep Learning Tutorial | Machine Learning Project 9 | Edureka",
+      "url": "https://www.youtube.com/watch?v=ejkRh9obVjk",
+      "topic": "Image Classification",
+      "subtopic": "Image Classification Techniques",
+      "duration": "44:02",
+      "views": "150,156 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Image classification using CNN (CIFAR10 dataset) | Deep Learning Tutorial 24 (Tensorflow & Python)",
+      "url": "https://www.youtube.com/watch?v=7HPwo4wnJeA",
+      "topic": "Image Classification",
+      "subtopic": "Image Classification Techniques",
+      "duration": "28:12",
+      "views": "486,410 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Tutorial: Image classification with Keras",
+      "url": "https://www.youtube.com/watch?v=1aJea7VZ-os",
+      "topic": "Image Classification",
+      "subtopic": "Image Classification Techniques",
+      "duration": "4:46",
+      "views": "3,408 views",
+      "channel": "DataCamp",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Science & Machine Learning Project - Part 1 Introduction | Image Classification",
+      "url": "https://www.youtube.com/watch?v=qWXXHjV3JHI",
+      "topic": "Image Classification",
+      "subtopic": "Image Classification Applications",
+      "duration": "4:42",
+      "views": "158,680 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Data Science & Machine Learning Project - Part 3 Data Cleaning | Image Classification",
+      "url": "https://www.youtube.com/watch?v=kwKfWBb6frs",
+      "topic": "Image Classification",
+      "subtopic": "Image Classification Applications",
+      "duration": "40:45",
+      "views": "119,046 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Image classification using CNN (CIFAR10 dataset) | Deep Learning Tutorial 24 (Tensorflow & Python)",
+      "url": "https://www.youtube.com/watch?v=7HPwo4wnJeA",
+      "topic": "Image Classification",
+      "subtopic": "Image Classification Applications",
+      "duration": "28:12",
+      "views": "486,410 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Image Classification using CNN | Deep Learning Tutorial | Machine Learning Project 9 | Edureka",
+      "url": "https://www.youtube.com/watch?v=ejkRh9obVjk",
+      "topic": "Image Classification",
+      "subtopic": "Image Classification Applications",
+      "duration": "44:02",
+      "views": "150,156 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Getting started with image classification",
+      "url": "https://www.youtube.com/watch?v=IIs1flEtpQk",
+      "topic": "Image Classification",
+      "subtopic": "Image Classification Applications",
+      "duration": "4:00",
+      "views": "12,624 views",
+      "channel": "TensorFlow",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Object Detection Explained | Tensorflow Object Detection | AI ML for Beginners | Edureka",
+      "url": "https://www.youtube.com/watch?v=MyvOfDFZvgE",
+      "topic": "Object Detection",
+      "subtopic": "Object Detection Techniques",
+      "duration": "2:35",
+      "views": "69,058 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Realtime Object Detection  | Object Detection with TensorFlow | Edureka | Deep Learning Rewind - 5",
+      "url": "https://www.youtube.com/watch?v=D4b0go7EAuM",
+      "topic": "Object Detection",
+      "subtopic": "Object Detection Techniques",
+      "duration": "44:41",
+      "views": "1,945 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Sliding Window Object Detection | Deep Learning Tutorial 30 (Tensorflow, Keras & Python)",
+      "url": "https://www.youtube.com/watch?v=AimW3j7M2Uw",
+      "topic": "Object Detection",
+      "subtopic": "Object Detection Techniques",
+      "duration": "4:58",
+      "views": "53,179 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Object Detection 101 Course - Including 4xProjects | Computer Vision",
+      "url": "https://www.youtube.com/watch?v=WgPbbWmnXJ8",
+      "topic": "Object Detection",
+      "subtopic": "Object Detection Techniques",
+      "duration": "4:33:47",
+      "views": "1,116,343 views",
+      "channel": "Murtaza's Workshop - Robotics and AI",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects",
+      "url": "https://www.youtube.com/watch?v=yqkISICHH-U",
+      "topic": "Object Detection",
+      "subtopic": "Object Detection Techniques",
+      "duration": "5:25:42",
+      "views": "1,441,885 views",
+      "channel": "Nicholas Renotte",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Object Detection Explained | Tensorflow Object Detection | AI ML for Beginners | Edureka",
+      "url": "https://www.youtube.com/watch?v=MyvOfDFZvgE",
+      "topic": "Object Detection",
+      "subtopic": "Object Detection Applications",
+      "duration": "2:35",
+      "views": "69,055 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Realtime Object Detection  | Object Detection with TensorFlow | Edureka | Deep Learning Rewind - 5",
+      "url": "https://www.youtube.com/watch?v=D4b0go7EAuM",
+      "topic": "Object Detection",
+      "subtopic": "Object Detection Applications",
+      "duration": "44:41",
+      "views": "1,945 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Real-Time Object Detection | Object Detection with TensorFlow | Edureka | ML  Rewind - 5",
+      "url": "https://www.youtube.com/watch?v=UGOq87k-s1M",
+      "topic": "Object Detection",
+      "subtopic": "Object Detection Applications",
+      "duration": "44:34",
+      "views": "2,113 views",
+      "channel": "edureka!",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Object Detection 101 Course - Including 4xProjects | Computer Vision",
+      "url": "https://www.youtube.com/watch?v=WgPbbWmnXJ8",
+      "topic": "Object Detection",
+      "subtopic": "Object Detection Applications",
+      "duration": "4:33:47",
+      "views": "1,116,343 views",
+      "channel": "Murtaza's Workshop - Robotics and AI",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects",
+      "url": "https://www.youtube.com/watch?v=yqkISICHH-U",
+      "topic": "Object Detection",
+      "subtopic": "Object Detection Applications",
+      "duration": "5:25:42",
+      "views": "1,441,885 views",
+      "channel": "Nicholas Renotte",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Image classification vs Object detection vs Image Segmentation | Deep Learning Tutorial 28",
+      "url": "https://www.youtube.com/watch?v=taC5pMCm70U",
+      "topic": "Image Segmentation",
+      "subtopic": "Image Segmentation Techniques",
+      "duration": "2:32",
+      "views": "113,479 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Python Image Segmentation Tutorial (2022)",
+      "url": "https://www.youtube.com/watch?v=UIgaLDgb2fY",
+      "topic": "Image Segmentation",
+      "subtopic": "Image Segmentation Techniques",
+      "duration": "31:50",
+      "views": "72,977 views",
+      "channel": "Mr. P Solver",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Image Segmentation And Object Detection Using 5 Lines Of Code Using PixelLib",
+      "url": "https://www.youtube.com/watch?v=FO-tjmtw5J4",
+      "topic": "Image Segmentation",
+      "subtopic": "Image Segmentation Techniques",
+      "duration": "9:09",
+      "views": "55,439 views",
+      "channel": "Krish Naik",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "62 - Image Segmentation using traditional machine learning - The plan",
+      "url": "https://www.youtube.com/watch?v=OUCwt8loM6s",
+      "topic": "Image Segmentation",
+      "subtopic": "Image Segmentation Techniques",
+      "duration": "6:30",
+      "views": "13,678 views",
+      "channel": "DigitalSreeni",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Image Segmentation, Semantic Segmentation, Instance Segmentation, and Panoptic Segmentation",
+      "url": "https://www.youtube.com/watch?v=5QUmlXBb0MY",
+      "topic": "Image Segmentation",
+      "subtopic": "Image Segmentation Techniques",
+      "duration": "5:04",
+      "views": "44,721 views",
+      "channel": "LearnOpenCV",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Unsupervised Clustering Methods for Image Segmentation: Application to SEM Images of Graphene",
+      "url": "https://www.youtube.com/watch?v=VagRsuPrctQ",
+      "topic": "Image Segmentation",
+      "subtopic": "Image Segmentation Applications",
+      "duration": "56:18",
+      "views": "2,648 views",
+      "channel": "nanohubtechtalks",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Image classification vs Object detection vs Image Segmentation | Deep Learning Tutorial 28",
+      "url": "https://www.youtube.com/watch?v=taC5pMCm70U",
+      "topic": "Image Segmentation",
+      "subtopic": "Image Segmentation Applications",
+      "duration": "2:32",
+      "views": "113,479 views",
+      "channel": "codebasics",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Advances in 2D/3D image segmentation using CNNS - Krzysztof Kotowski",
+      "url": "https://www.youtube.com/watch?v=Zzvx72fD6oo",
+      "topic": "Image Segmentation",
+      "subtopic": "Image Segmentation Applications",
+      "duration": "32:33",
+      "views": "31,333 views",
+      "channel": "PyData",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "Image segmentation python",
+      "url": "https://www.youtube.com/watch?v=rMCjhKUSCXs",
+      "topic": "Image Segmentation",
+      "subtopic": "Image Segmentation Applications",
+      "duration": "52:38",
+      "views": "8,817 views",
+      "channel": "Pyresearch",
+      "transcript": "Transcript not available"
+    },
+    {
+      "title": "6.4.2 Recitation 6 - Video 1: Image Segmentation",
+      "url": "https://www.youtube.com/watch?v=j1d4_wrUEVs",
+      "topic": "Image Segmentation",
+      "subtopic": "Image Segmentation Applications",
+      "duration": "4:00",
+      "views": "1,121 views",
+      "channel": "MIT OpenCourseWare",
+      "transcript": "Transcript not available"
+    }
+  ]
+}

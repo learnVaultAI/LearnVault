@@ -1,0 +1,822 @@
+{
+  "course_name": "Python",
+  "category": "Programming",
+  "main_topics": [
+    {
+      "title": "Fundamentals of Python",
+      "subtopics": [
+        {
+          "title": "Introduction to Python",
+          "description": "Overview of Python, its features, and applications.",
+          "key_points": [
+            "Python is an interpreted, high-level, general-purpose programming language.",
+            "It is known for its ease of use, readability, and wide range of applications.",
+            "Python is used in web development, data science, machine learning, and many other fields."
+          ]
+        },
+        {
+          "title": "Data Types and Variables",
+          "description": "Understanding different data types, variables, and their operations.",
+          "key_points": [
+            "Python has various data types such as integers, floats, strings, and lists.",
+            "Variables are used to store values and can be assigned using the assignment operator (=).",
+            "Type casting allows conversion between different data types."
+          ]
+        },
+        {
+          "title": "Control Flow",
+          "description": "Managing the flow of execution using conditional statements and loops.",
+          "key_points": [
+            "Conditional statements (if-else) allow execution based on specific conditions.",
+            "Loops (for, while) are used for repetitive tasks.",
+            "Control flow statements provide flexibility and control over program execution."
+          ]
+        },
+        {
+          "title": "Functions and Modules",
+          "description": "Creating and using functions for code reusability and modularity.",
+          "key_points": [
+            "Functions are reusable blocks of code that can be called from anywhere in the program.",
+            "Modules are collections of related functions and variables that can be imported into programs.",
+            "Using functions and modules promotes code organization and maintainability."
+          ]
+        },
+        {
+          "title": "Input and Output",
+          "description": "Interacting with the user and handling input/output operations.",
+          "key_points": [
+            "Python provides built-in functions for user input (input()) and output (print()).",
+            "File handling allows reading, writing, and manipulating files.",
+            "Input/output operations enable interaction between the program and the user or external systems."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Advanced Python Concepts",
+      "subtopics": [
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "description": "OOP is a programming paradigm that uses 'objects' to design applications and computer programs.",
+          "key_points": [
+            "Classes and objects",
+            "Inheritance and polymorphism",
+            "Encapsulation and data hiding"
+          ]
+        },
+        {
+          "title": "Data Structures and Algorithms",
+          "description": "Data structures are a way to organize and store data in a computer, while algorithms are a set of instructions to perform a task.",
+          "key_points": [
+            "Arrays, linked lists, and dictionaries",
+            "Sorting and searching algorithms",
+            "Big O notation"
+          ]
+        },
+        {
+          "title": "Functional Programming",
+          "description": "Functional programming is a programming paradigm that emphasizes the use of functions and immutable data.",
+          "key_points": [
+            "Lambdas and higher-order functions",
+            "Recursion and tail recursion",
+            "Immutability and referential transparency"
+          ]
+        },
+        {
+          "title": "Error Handling and Exceptions",
+          "description": "Error handling is a crucial aspect of software development, and Python provides various mechanisms to handle errors.",
+          "key_points": [
+            "Try, except, and finally blocks",
+            "Custom exceptions",
+            "Logging and debugging"
+          ]
+        },
+        {
+          "title": "Concurrency and Parallelism",
+          "description": "Concurrency and parallelism are techniques used to improve the performance of programs by running multiple tasks simultaneously.",
+          "key_points": [
+            "Threads and processes",
+            "Synchronization and locks",
+            "Multiprocessing and multithreading"
+          ]
+        },
+        {
+          "title": "Python Modules and Packages",
+          "description": "Modules and packages are essential for organizing and reusing code in Python.",
+          "key_points": [
+            "Creating and importing modules",
+            "Package management with pip",
+            "Virtual environments"
+          ]
+        },
+        {
+          "title": "Advanced Python Tools and Libraries",
+          "description": "Python offers a wide range of advanced tools and libraries to enhance productivity and functionality.",
+          "key_points": [
+            "NumPy for scientific computing",
+            "Pandas for data analysis",
+            "Scikit-learn for machine learning"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Django",
+      "subtopics": [
+        {
+          "title": "Introduction to Django",
+          "description": "Overview of Django, its features, and benefits",
+          "key_points": [
+            "Model-View-Template (MVT) architecture",
+            "Rapid development with pre-built components",
+            "Secure and scalable web applications"
+          ]
+        },
+        {
+          "title": "Creating a Django Project",
+          "description": "Setting up a new Django project, understanding project structure",
+          "key_points": [
+            "Creating a virtual environment",
+            "Installing Django and creating a new project",
+            "Understanding the project directory structure"
+          ]
+        },
+        {
+          "title": "Models and Databases",
+          "description": "Defining data models, interacting with databases",
+          "key_points": [
+            "Creating Django models to represent data",
+            "Using Django's ORM (Object-Relational Mapper)",
+            "Performing database operations (create, read, update, delete)"
+          ]
+        },
+        {
+          "title": "Views and URLs",
+          "description": "Handling user requests, defining URL patterns",
+          "key_points": [
+            "Creating views to handle HTTP requests",
+            "Defining URL patterns to map URLs to views",
+            "Using Django templates to render HTML responses"
+          ]
+        },
+        {
+          "title": "Forms and Validation",
+          "description": "Creating forms for user input, validating data",
+          "key_points": [
+            "Creating Django forms for user interaction",
+            "Validating user input with form validation",
+            "Handling form submissions and processing data"
+          ]
+        },
+        {
+          "title": "Authentication and Authorization",
+          "description": "Implementing user authentication and authorization",
+          "key_points": [
+            "Creating a custom user model or using Django's built-in user system",
+            "Defining permissions and groups for user roles",
+            "Implementing login, logout, and password management"
+          ]
+        },
+        {
+          "title": "Deployment and Scalability",
+          "description": "Deploying Django applications, optimizing for scalability",
+          "key_points": [
+            "Different options for deploying Django applications (e.g., Heroku, AWS)",
+            "Optimizing database performance for scalability",
+            "Caching techniques to improve application responsiveness"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Flask",
+      "subtopics": [
+        {
+          "title": "Introduction to Flask",
+          "description": "Overview of Flask, its features, and benefits.",
+          "key_points": [
+            "Lightweight and flexible microframework",
+            "Built-in development server and debugger",
+            "Extensible with plugins and extensions"
+          ]
+        },
+        {
+          "title": "Routing and Request Handling",
+          "description": "Creating routes, handling requests, and returning responses.",
+          "key_points": [
+            "Use decorators to define routes",
+            "Request and response objects provide access to data",
+            "Support for various HTTP methods (GET, POST, etc.)"
+          ]
+        },
+        {
+          "title": "Templating and Rendering",
+          "description": "Using templates to generate dynamic HTML responses.",
+          "key_points": [
+            "Jinja2 template engine provides advanced templating features",
+            "Render templates with variables and conditionals",
+            "Easily create reusable templates for common layouts"
+          ]
+        },
+        {
+          "title": "Forms and Validation",
+          "description": "Creating and handling forms with built-in validation and CSRF protection.",
+          "key_points": [
+            "WTForms integration for form creation and validation",
+            "Protect forms against cross-site request forgery (CSRF)",
+            "Handle form submissions and display validation errors"
+          ]
+        },
+        {
+          "title": "Databases and SQLAlchemy",
+          "description": "Integrating Flask with SQLAlchemy for database access and object-relational mapping (ORM).",
+          "key_points": [
+            "Create database models using classes",
+            "Perform database operations (CRUD) with SQLAlchemy's ORM",
+            "Connect to various database systems (e.g., SQLite, MySQL)"
+          ]
+        },
+        {
+          "title": "Deployment and Configuration",
+          "description": "Deploying Flask applications to production and managing configurations.",
+          "key_points": [
+            "Use WSGI servers (e.g., Gunicorn, Apache) for deployment",
+            "Configure application settings using environment variables",
+            "Utilize logging and exception handling for error management"
+          ]
+        },
+        {
+          "title": "Advanced Features",
+          "description": "Exploring advanced features of Flask, such as blueprints, extensions, and unit testing.",
+          "key_points": [
+            "Organize code using blueprints for modularity",
+            "Extend Flask with plugins and third-party libraries",
+            "Write unit tests to ensure application reliability"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "FastAPI",
+      "subtopics": [
+        {
+          "title": "Introduction to FastAPI",
+          "description": "Overview of FastAPI's features, benefits, and architecture.",
+          "key_points": [
+            "Asynchronous and high-performance web framework for Python.",
+            "Built on top of Starlette and Pydantic for data validation and type hinting.",
+            "Focuses on simplicity, code readability, and performance optimization."
+          ]
+        },
+        {
+          "title": "Creating FastAPI Applications",
+          "description": "Step-by-step guide to setting up and structuring FastAPI applications.",
+          "key_points": [
+            "Using the FastAPI class to create an application instance.",
+            "Defining routes and handlers using decorators (@get, @post).",
+            "Returning responses using the Response class or built-in functions (e.g., JSONResponse)."
+          ]
+        },
+        {
+          "title": "Data Validation with Pydantic",
+          "description": "Integrating Pydantic for robust data validation and type enforcement.",
+          "key_points": [
+            "Creating data models using Pydantic classes with type annotations.",
+            "Using Pydantic's validation features to ensure data integrity.",
+            "Automating data parsing and conversion based on model definitions."
+          ]
+        },
+        {
+          "title": "Dependency Injection and Middleware",
+          "description": "Understanding and utilizing dependency injection and middleware in FastAPI.",
+          "key_points": [
+            "Dependency injection for sharing and passing objects between handlers.",
+            "Middleware for customizing request/response processing, error handling, and logging.",
+            "Using the FastAPI dependency injection system and built-in middleware."
+          ]
+        },
+        {
+          "title": "Handling HTTP Requests and Responses",
+          "description": "Managing HTTP requests, responses, and status codes in FastAPI.",
+          "key_points": [
+            "Handling different HTTP methods (GET, POST, PUT, DELETE).",
+            "Customizing response status codes and headers.",
+            "Working with request and response bodies, including JSON and multipart/form-data."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PyTorch",
+      "subtopics": [
+        {
+          "title": "Introduction to PyTorch",
+          "description": "Overview of PyTorch, its key features, and its role in deep learning.",
+          "key_points": [
+            "PyTorch is a Python-based deep learning library.",
+            "It provides dynamic computation graphs, allowing for flexible model construction and training.",
+            "PyTorch offers a wide range of tools for data loading, model optimization, and deployment."
+          ]
+        },
+        {
+          "title": "Tensor Operations",
+          "description": "Core concepts of tensor operations in PyTorch, including tensor creation, manipulation, and mathematical operations.",
+          "key_points": [
+            "Tensors are the fundamental data structure in PyTorch, representing multi-dimensional arrays.",
+            "PyTorch provides various functions for tensor creation, including `torch.tensor()` and `torch.rand()`.",
+            "Tensor operations include element-wise arithmetic, broadcasting, and linear algebra operations."
+          ]
+        },
+        {
+          "title": "Neural Network Building Blocks",
+          "description": "Key components for constructing neural networks in PyTorch, such as layers, activation functions, and optimizers.",
+          "key_points": [
+            "PyTorch offers a comprehensive set of layers, including linear layers, convolutional layers, and recurrent layers.",
+            "Activation functions, such as ReLU and sigmoid, are applied to introduce non-linearity into the network.",
+            "Optimizers, like SGD and Adam, are used to adjust the weights of the network during training."
+          ]
+        },
+        {
+          "title": "Model Training and Evaluation",
+          "description": "Process of training and evaluating deep learning models using PyTorch, including data preparation, loss functions, and metrics.",
+          "key_points": [
+            "Data preparation involves loading, preprocessing, and splitting the dataset into training and validation sets.",
+            "Loss functions measure the error between the model's predictions and the ground truth.",
+            "Metrics, such as accuracy and F1-score, are used to evaluate the performance of the trained model."
+          ]
+        },
+        {
+          "title": "Advanced PyTorch Techniques",
+          "description": "Exploration of advanced PyTorch techniques, such as automatic differentiation, custom layers, and distributed training.",
+          "key_points": [
+            "PyTorch's automatic differentiation engine, `torch.autograd`, simplifies gradient computation.",
+            "Custom layers allow for the creation of specialized layers tailored to specific tasks.",
+            "Distributed training enables the training of large models across multiple GPUs or machines."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "TensorFlow",
+      "subtopics": [
+        {
+          "title": "Introduction to TensorFlow",
+          "description": "An introduction to TensorFlow, its purpose, and its applications in machine learning.",
+          "key_points": [
+            "TensorFlow is an open-source machine learning library developed by Google.",
+            "It provides a comprehensive set of tools and APIs for building and training machine learning models.",
+            "TensorFlow is widely used in various domains, including image recognition, natural language processing, and time series forecasting."
+          ]
+        },
+        {
+          "title": "TensorFlow Architecture",
+          "description": "An overview of TensorFlow's architecture, including its core components and how they work together.",
+          "key_points": [
+            "TensorFlow uses a computational graph to represent machine learning models.",
+            "The graph consists of nodes (operations) and edges (data dependencies).",
+            "TensorFlow optimizes the graph for efficient execution on various hardware platforms."
+          ]
+        },
+        {
+          "title": "TensorFlow Data Structures",
+          "description": "An explanation of the fundamental data structures used in TensorFlow, such as tensors and variables.",
+          "key_points": [
+            "Tensors are multi-dimensional arrays that represent data in TensorFlow.",
+            "Variables are mutable tensors that store model parameters and are updated during training.",
+            "TensorFlow provides various operations to manipulate and transform tensors."
+          ]
+        },
+        {
+          "title": "Building and Training TensorFlow Models",
+          "description": "A step-by-step guide to building and training machine learning models using TensorFlow.",
+          "key_points": [
+            "Define the model architecture using TensorFlow operations.",
+            "Specify the loss function and optimization algorithm for training.",
+            "Train the model by iteratively updating the model parameters based on the loss function."
+          ]
+        },
+        {
+          "title": "TensorFlow Applications",
+          "description": "Examples of practical applications of TensorFlow in different domains.",
+          "key_points": [
+            "Image recognition: Object detection, image classification, facial recognition.",
+            "Natural language processing: Text classification, machine translation, named entity recognition.",
+            "Time series forecasting: Predicting future values based on historical data."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Best Practices and Real-world Applications",
+      "subtopics": [
+        {
+          "title": "Coding Style and Conventions",
+          "description": "Establishes guidelines for writing clear, consistent, and maintainable Python code.",
+          "key_points": [
+            "PEP 8 Style Guidelines",
+            "Docstring Conventions",
+            "Variable and Function Naming Conventions"
+          ]
+        },
+        {
+          "title": "Error Handling and Debugging",
+          "description": "Covers techniques for handling errors gracefully and efficiently.",
+          "key_points": [
+            "try-except-finally Blocks",
+            "Logging and Error Reporting",
+            "Unit Testing"
+          ]
+        },
+        {
+          "title": "Data Structures and Algorithms",
+          "description": "Explores efficient data structures and algorithms for organizing and manipulating data.",
+          "key_points": [
+            "Lists, Dictionaries, and Sets",
+            "Sorting and Searching Algorithms",
+            "Time and Space Complexity"
+          ]
+        },
+        {
+          "title": "Object-oriented Programming (OOP)",
+          "description": "Introduces OOP concepts and their application in Python.",
+          "key_points": [
+            "Classes, Objects, and Inheritance",
+            "Encapsulation and Polymorphism",
+            "Design Patterns"
+          ]
+        },
+        {
+          "title": "Real-world Applications",
+          "description": "Demonstrates practical applications of Python in various domains.",
+          "key_points": [
+            "Data Science and Machine Learning",
+            "Web Development",
+            "Automation and Scripting"
+          ]
+        }
+      ]
+    }
+  ],
+  "related_videos": [
+    {
+      "title": "Python for Beginners - Learn Python in 1 Hour",
+      "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8",
+      "channel_name": "Programming with Mosh",
+      "duration": "1:00:06",
+      "view_count": "18,659,576 views",
+      "description": "Learn Python basics in 1 hour! \u26a1 This beginner-friendly tutorial will get you coding fast.\ud83d\ude80 Want to dive deeper? Check out my Python mastery course: - Engli...",
+      "topic": "Fundamentals of Python"
+    },
+    {
+      "title": "Full Chapter- Python Fundamentals | ONE SHOT VIDEO with PROGRAMS | Python Class 11 Computer Science",
+      "url": "https://www.youtube.com/watch?v=D0BLCFg_JIA",
+      "channel_name": "ScoreShala",
+      "duration": "57:24",
+      "view_count": "465,594 views",
+      "description": "Full Chapter- Python Fundamentals | ONE SHOT VIDEO with PROGRAMS | Python Class 11 Computer Science\u2705Class: 11\u2705Subject: Computer Science\u2705Chapter: Python Funda...",
+      "topic": "Fundamentals of Python"
+    },
+    {
+      "title": "Python Tutorial for Beginners | Learn Python in 1.5 Hours",
+      "url": "https://www.youtube.com/watch?v=vLqTf2b6GZw",
+      "channel_name": "Apna College",
+      "duration": "1:17:12",
+      "view_count": "10,175,493 views",
+      "description": "This video is made with a lot of love from Apna College \u2764\ufe0fAre you worried about placements/internships? Want to prepare for companies like Microsoft, Amazon ...",
+      "topic": "Fundamentals of Python"
+    },
+    {
+      "title": "Python Tutorial For Beginners in Hindi | Complete Python Course \ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=UrsmFxEIp5k",
+      "channel_name": "CodeWithHarry",
+      "duration": "10:53:55",
+      "view_count": "3,077,424 views",
+      "description": "Source Code: https://github.com/CodeWithHarry/The-Ultimate-Python-CoursePython PDF Handbook (authored by me): https://www.codewithharry.com/notes/Download th...",
+      "topic": "Fundamentals of Python"
+    },
+    {
+      "title": "Class 11: Python Fundamentals | Unit -2 | CBSE 2024 | Computer Science | CS 083 | Aakash",
+      "url": "https://www.youtube.com/watch?v=6BuaBd0xvcM",
+      "channel_name": "Aakash Singh",
+      "duration": "22:32",
+      "view_count": "68,971 views",
+      "description": "Welcome to the channel where we try to make things easier for you! Syllabus PDF: https://cbseacademic.nic.in/web_material/CurriculumMain24/SrSec/Computer_Sci...",
+      "topic": "Fundamentals of Python"
+    },
+    {
+      "title": "Advanced Python Tutorial | Learn Advanced Python Concepts | Python Programming Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=O1gZc-erLjg",
+      "channel_name": "edureka!",
+      "duration": "33:16",
+      "view_count": "157,606 views",
+      "description": "\ud83d\udd25 Post Graduate Diploma in Artificial Intelligence by E&ICT AcademyNIT Warangal: https://www.edureka.co/executive-programs/machine-learning-and-aiThis Edure...",
+      "topic": "Advanced Python Concepts"
+    },
+    {
+      "title": "Python Advance Programming 2022 | Advanced Python | Advanced Python Tutorial | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=Yrtm7d3TJbs",
+      "channel_name": "Simplilearn",
+      "duration": "2:27:01",
+      "view_count": "337,457 views",
+      "description": "\ud83d\udd25Caltech Post Graduate Program In AI And Machine Learning - https://www.simplilearn.com/artificial-intelligence-masters-program-training-course?utm_campaign...",
+      "topic": "Advanced Python Concepts"
+    },
+    {
+      "title": "Things about help Function every Python Programmer needs to know #python #programming #coding",
+      "url": "https://www.youtube.com/watch?v=27Wuqrh6syc",
+      "channel_name": "Coding Together",
+      "duration": "0:57",
+      "view_count": "800 views",
+      "description": "Happy Coding! \ud83e\uddd1\ud83c\udffd\u200d\ud83d\udcbbAll you need to know about the help function in Python!Exit Help Terminal by pressing \"q\" with focus in the Terminal.\ud83c\udfa7 SongMusic by htt...",
+      "topic": "Advanced Python Concepts"
+    },
+    {
+      "title": "Complete OOP in Python in 1 Video | End to End OOP in Python in 4 hours",
+      "url": "https://www.youtube.com/watch?v=Mf2RdpEiXjU",
+      "channel_name": "CampusX",
+      "duration": "4:02:58",
+      "view_count": "381,098 views",
+      "description": "If you find this video helpful, consider giving it a thumbs up and subscribing for more educational videos on data science! Share your thoughts, experiences,...",
+      "topic": "Advanced Python Concepts"
+    },
+    {
+      "title": "PLEASE Learn These 10 Advanced Python Features",
+      "url": "https://www.youtube.com/watch?v=6ViGc5NgdSw",
+      "channel_name": "Tech With Tim",
+      "duration": "42:28",
+      "view_count": "32,844 views",
+      "description": "\ud83d\udc49 To try everything Brilliant has to offer for free for a full 30 days, visit https://brilliant.org/TechWithTim . You'll also get a 20% discount on a premiu...",
+      "topic": "Advanced Python Concepts"
+    },
+    {
+      "title": "Python Django Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=rHux0gMZ3Eg",
+      "channel_name": "Programming with Mosh",
+      "duration": "1:02:36",
+      "view_count": "2,637,165 views",
+      "description": "Become a Django pro! \ud83d\ude80 Build amazing back-ends with this beginner-friendly Python tutorial.\ud83d\udd25 Ready for a deep dive?- Check out my full course: https://mosh...",
+      "topic": "Django"
+    },
+    {
+      "title": "Python Django Web Framework - Full Course for Beginners",
+      "url": "https://www.youtube.com/watch?v=F5mRW0jo-U4",
+      "channel_name": "freeCodeCamp.org",
+      "duration": "3:45:41",
+      "view_count": "4,403,764 views",
+      "description": "Learn the Python Django framework with this free full course. Django is an extremely popular and fully featured server-side web framework, written in Python....",
+      "topic": "Django"
+    },
+    {
+      "title": "Python Django 7 Hour Course",
+      "url": "https://www.youtube.com/watch?v=PtQiiknWUcI",
+      "channel_name": "Traversy Media",
+      "duration": "7:10:05",
+      "view_count": "1,804,822 views",
+      "description": "Build a discord-like application with Python Django. Visit the finished application at https://studybuddev.herokuapp.com/Get The Full Django Beginners Course...",
+      "topic": "Django"
+    },
+    {
+      "title": "Django in 8 Minutes \ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=rIWJWy3_njo",
+      "channel_name": "CodeWithHarry",
+      "duration": "8:03",
+      "view_count": "216,011 views",
+      "description": "In this video, we will look into the history and development of Django along with how to use it to create powerful web applications!TimeStamps \u231a00:00 - Intro...",
+      "topic": "Django"
+    },
+    {
+      "title": "Python Django Explained In 8 Minutes",
+      "url": "https://www.youtube.com/watch?v=0sMtoedWaf0",
+      "channel_name": "Dennis Ivy",
+      "duration": "8:11",
+      "view_count": "289,552 views",
+      "description": "A list of the 15 most important concepts every Django developer should have a solid grasp on.Django Courses:Django Complete Course: https://dub.sh/jFQoWxTDja...",
+      "topic": "Django"
+    },
+    {
+      "title": "Learn Flask for Python - Full Tutorial",
+      "url": "https://www.youtube.com/watch?v=Z1RJmh_OqeA",
+      "channel_name": "freeCodeCamp.org",
+      "duration": "46:59",
+      "view_count": "1,830,746 views",
+      "description": "Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. Learn how t...",
+      "topic": "Flask"
+    },
+    {
+      "title": "Flask in 6 Minutes \ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=0HXg9_r_7MM",
+      "channel_name": "CodeWithHarry",
+      "duration": "6:35",
+      "view_count": "129,243 views",
+      "description": "Python flask Introduction and History: In this video, we will look into the flask framework which is based on python. This video will get you a good idea of ...",
+      "topic": "Flask"
+    },
+    {
+      "title": "Python Flask Web Development Tutorial in Hindi",
+      "url": "https://www.youtube.com/watch?v=oA8brF3w5XQ",
+      "channel_name": "CodeWithHarry",
+      "duration": "1:47:14",
+      "view_count": "806,181 views",
+      "description": "Web Development Using Python Flask in one video: In this python flask tutorial, we will see how to make awesome websites using flask and python. We will ee d...",
+      "topic": "Flask"
+    },
+    {
+      "title": "Python Website Full Tutorial - Flask, Authentication, Databases & More",
+      "url": "https://www.youtube.com/watch?v=dam0GPOAvVI",
+      "channel_name": "Tech With Tim",
+      "duration": "2:16:40",
+      "view_count": "3,022,472 views",
+      "description": "In this video, I'm going to be showing you how to make a website with Python, covering Flask, authentication, databases, and more. The goal of this video is ...",
+      "topic": "Flask"
+    },
+    {
+      "title": "Flask Course - Python Web Application Development",
+      "url": "https://www.youtube.com/watch?v=Qr4QMBUPxWo",
+      "channel_name": "freeCodeCamp.org",
+      "duration": "6:21:04",
+      "view_count": "1,019,752 views",
+      "description": "Learn the Flask Python web framework by building your own e-commerce website with its own authentication system.\ud83d\udcbb Full code: https://github.com/jimdevops19/...",
+      "topic": "Flask"
+    },
+    {
+      "title": "How to Use FastAPI: A Detailed Python Tutorial",
+      "url": "https://www.youtube.com/watch?v=SORiTsvnU28",
+      "channel_name": "ArjanCodes",
+      "duration": "20:38",
+      "view_count": "237,845 views",
+      "description": "In this tutorial, I'll show you how to get started with FastAPI in Python. By the end of this video, you'll know everything you need to get started with deve...",
+      "topic": "FastAPI"
+    },
+    {
+      "title": "FastAPI - A python framework | Full Course",
+      "url": "https://www.youtube.com/watch?v=7t2alSnE2-I",
+      "channel_name": "Bitfumes - AI & LLMs",
+      "duration": "4:02:56",
+      "view_count": "874,550 views",
+      "description": "FastAPI is the fastest Python Web FrameworkLet's learn fastAPI by creating a full API for crud of blog with user authenticationFastAPI is using Pydantic libr...",
+      "topic": "FastAPI"
+    },
+    {
+      "title": "Python API Development - Comprehensive Course for Beginners",
+      "url": "https://www.youtube.com/watch?v=0sOvCWFmrtA",
+      "channel_name": "freeCodeCamp.org",
+      "duration": "19:00:27",
+      "view_count": "2,203,491 views",
+      "description": "Learn Python API development in one of the most comprehensive courses ever on the topic. You will build a full-fledged API in Python using FastAPI. You will ...",
+      "topic": "FastAPI"
+    },
+    {
+      "title": "FastAPI Course for Beginners",
+      "url": "https://www.youtube.com/watch?v=tLKKmouUams",
+      "channel_name": "freeCodeCamp.org",
+      "duration": "1:04:33",
+      "view_count": "325,827 views",
+      "description": "This video is a full FastAPI crash course. In the course, you will learn everything you need to know to start building APIs using FastAPI.\u270f\ufe0f Course developed...",
+      "topic": "FastAPI"
+    },
+    {
+      "title": "Python FAST API Tutorial",
+      "url": "https://www.youtube.com/watch?v=-ykeT6kk4bk",
+      "channel_name": "Tech With Tim",
+      "duration": "58:20",
+      "view_count": "332,953 views",
+      "description": "Welcome back to my channel! In this video, I will be showing you FastAPI which is a Python framework. As the name suggests, this allows us to make APIs in Py...",
+      "topic": "FastAPI"
+    },
+    {
+      "title": "PyTorch in 100 Seconds",
+      "url": "https://www.youtube.com/watch?v=ORMx45xqWkA",
+      "channel_name": "Fireship",
+      "duration": "2:43",
+      "view_count": "922,659 views",
+      "description": "PyTorch is a deep learning framework for used to build artificial intelligence software with Python. Learn how to build a basic neural network from scratch w...",
+      "topic": "PyTorch"
+    },
+    {
+      "title": "PyTorch for Deep Learning & Machine Learning \u2013 Full Course",
+      "url": "https://www.youtube.com/watch?v=V_xro1bcAuA",
+      "channel_name": "freeCodeCamp.org",
+      "duration": "25:37:26",
+      "view_count": "1,854,388 views",
+      "description": "Learn PyTorch for deep learning in this comprehensive course for beginners. PyTorch is a machine learning framework written in Python.\u270f\ufe0f Daniel Bourke develo...",
+      "topic": "PyTorch"
+    },
+    {
+      "title": "What is PyTorch ? | PyTorch in 8 Minutes | PyTorch Tutorial for Beginners | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=r2JKV4_zlmM",
+      "channel_name": "Simplilearn",
+      "duration": "7:29",
+      "view_count": "25,953 views",
+      "description": "\"\ud83d\udd25Caltech Post Graduate Program In AI And Machine Learning - https://www.simplilearn.com/artificial-intelligence-masters-program-training-course?utm_campaig...",
+      "topic": "PyTorch"
+    },
+    {
+      "title": "The StatQuest Introduction to PyTorch",
+      "url": "https://www.youtube.com/watch?v=FHdlXe1bSe4",
+      "channel_name": "StatQuest with Josh Starmer",
+      "duration": "23:22",
+      "view_count": "154,634 views",
+      "description": "PyTorch is one of the most popular tools for making Neural Networks. This StatQuest walks you through a simple example of how to use PyTorch one step at a ti...",
+      "topic": "PyTorch"
+    },
+    {
+      "title": "Build Your First Pytorch Model In Minutes! [Tutorial + Code]",
+      "url": "https://www.youtube.com/watch?v=tHL5STNJKag",
+      "channel_name": "Rob Mulla",
+      "duration": "31:32",
+      "view_count": "87,078 views",
+      "description": "In this video we will learn through doing! Build your very first PyTorch model that can classify images of playing cards. #pytorch #deeplearning Related vide...",
+      "topic": "PyTorch"
+    },
+    {
+      "title": "What is TensorFlow | TensorFlow Explained in 3-Minutes | Introduction to TensorFlow | Intellipaat",
+      "url": "https://www.youtube.com/watch?v=9NsfX9W80rw",
+      "channel_name": "Intellipaat",
+      "duration": "2:36",
+      "view_count": "73,923 views",
+      "description": "Welcome to this doodle video on \"What is TensorFlow?\" In this video, we'll be exploring the basics of TensorFlow, one of the most popular open-source librari...",
+      "topic": "TensorFlow"
+    },
+    {
+      "title": "Tensorflow Tutorial for Python in 10 Minutes",
+      "url": "https://www.youtube.com/watch?v=6_2hzRopPbQ",
+      "channel_name": "Nicholas Renotte",
+      "duration": "11:33",
+      "view_count": "439,250 views",
+      "description": "Want to build a deep learning model?Struggling to get your head around Tensorflow?Just want a clear walkthrough of which layer to use and why?I got you!Build...",
+      "topic": "TensorFlow"
+    },
+    {
+      "title": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+      "url": "https://www.youtube.com/watch?v=tPYj3fFJGjk",
+      "channel_name": "freeCodeCamp.org",
+      "duration": "6:52:08",
+      "view_count": "3,099,471 views",
+      "description": "Learn how to use TensorFlow 2.0 in this full tutorial course for beginners. This course is designed for Python programmers looking to enhance their knowledge...",
+      "topic": "TensorFlow"
+    },
+    {
+      "title": "TensorFlow in 100 Seconds",
+      "url": "https://www.youtube.com/watch?v=i8NETqtGHms",
+      "channel_name": "Fireship",
+      "duration": "2:39",
+      "view_count": "956,872 views",
+      "description": "TensorFlow is a tool for machine learning capable of building deep neural networks with high-level Python code. It provides developer-friendly APIs that help...",
+      "topic": "TensorFlow"
+    },
+    {
+      "title": "Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 1/2",
+      "url": "https://www.youtube.com/watch?v=tpCFfeUEGs8",
+      "channel_name": "Daniel Bourke",
+      "duration": "10:15:28",
+      "view_count": "838,564 views",
+      "description": "Ready to learn the fundamentals of TensorFlow and deep learning with Python? Well, you\u2019ve come to the right place. After this two-part code-first introductio...",
+      "topic": "TensorFlow"
+    },
+    {
+      "title": "Python Uses | Python Applications in Real World | Great Learning",
+      "url": "https://www.youtube.com/watch?v=13TV3MZ-D6Q",
+      "channel_name": "Great Learning",
+      "duration": "14:27",
+      "view_count": "17,313 views",
+      "description": "\ud83d\udd251000+ Free Courses With Free Certificates: https://www.mygreatlearning.com/academy?ambassador_code=GLYT_DES_Top_SEP22&utm_source=GLYT&utm_campaign=GLYT_DES...",
+      "topic": "Best Practices and Real-world Applications"
+    },
+    {
+      "title": "5 Effective Tips to Learn Python Fast (Pro Hacks)\ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=xTSjk6Q6vrc",
+      "channel_name": "CodeWithHarry",
+      "duration": "8:51",
+      "view_count": "365,246 views",
+      "description": "100 Days of Code Python (English): https://click.linksynergy.com/link?id=vzG/OMx7ecI&offerid=1388962.3919715219197173821843440&type=2&murl=https%3A%2F%2Fwww....",
+      "topic": "Best Practices and Real-world Applications"
+    },
+    {
+      "title": "New Python Coders Be Like...",
+      "url": "https://www.youtube.com/watch?v=0MhVkKHYUAY",
+      "channel_name": "Mr. P Solver",
+      "duration": "2:13",
+      "view_count": "4,613,959 views",
+      "description": "Join the Discord Server:https://discord.gg/Ap2sf3sKqgCheck out part 2:https://www.youtube.com/watch?v=v2BOctFvUT4",
+      "topic": "Best Practices and Real-world Applications"
+    },
+    {
+      "title": "Python 101: Learn the 5 Must-Know Concepts",
+      "url": "https://www.youtube.com/watch?v=mMv6OSuitWw",
+      "channel_name": "Tech With Tim",
+      "duration": "20:00",
+      "view_count": "1,204,869 views",
+      "description": "See NordPass Business in action now with a 3-month free trial here http://nordpass.com/techwithtim with code techwithtimIf you're interested in becoming a de...",
+      "topic": "Best Practices and Real-world Applications"
+    },
+    {
+      "title": "What Can You Do with Python? - The 3 Main Applications",
+      "url": "https://www.youtube.com/watch?v=kLZuut1fYzQ",
+      "channel_name": "CS Dojo",
+      "duration": "11:30",
+      "view_count": "3,584,448 views",
+      "description": "What is Python used for? What can you do with Python? Watch this video to find out :)Looking for a Python tutorial for beginners? I have a playlist for that ...",
+      "topic": "Best Practices and Real-world Applications"
+    }
+  ]
+}
